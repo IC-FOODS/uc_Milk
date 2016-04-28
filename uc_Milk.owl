@@ -35,8 +35,107 @@
     <!-- http://purl.obolibrary.org/obo/UBERON_0000000 -->
 
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000000">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000003"/>
     </rdf:Description>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#chemical_components -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#chemical_components">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#complex_multichemical_matrix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#complex_multichemical_matrix">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24431"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#complex_multichemical_matrix"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food_matrix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food_matrix">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food_type -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food_type">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#glandular_secretion -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#glandular_secretion">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000456"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#lactation_system -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#lactation_system">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002330"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#liquid_food_matrix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#liquid_food_matrix">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food_matrix"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#mammary_gland -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#mammary_gland">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002530"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#mammary_gland_secretion -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#mammary_gland_secretion">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#glandular_secretion"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#milk -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#milk">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UBERON_0000465"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#mammary_gland_secretion"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#solid_food_matrix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#solid_food_matrix">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20#food_matrix"/>
+    </owl:Class>
 </rdf:RDF>
 
 
