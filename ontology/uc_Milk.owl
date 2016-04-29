@@ -420,9 +420,6 @@
         <Class IRI="#milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_at_lactation_stage_1_lactogenesis"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_at_lactation_time"/>
     </Declaration>
     <Declaration>
@@ -1048,10 +1045,6 @@
     <SubClassOf>
         <Class IRI="#milk"/>
         <Class IRI="#mammary_gland_secretion"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#milk_at_lactation_stage_1_lactogenesis"/>
-        <Class IRI="#mlik_at_lactation_stage"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_at_lactation_time"/>
