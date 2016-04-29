@@ -30,6 +30,21 @@
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#ACE_inhibitory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#B-vitamins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Calcium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ELISA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ESI-mass_spectrometry"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
     </Declaration>
     <Declaration>
@@ -39,16 +54,73 @@
         <Class IRI="#Eating_influenced_by_body_size/type"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#GC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ICP-MS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LC-UV-Vis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MALDI-MS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Magnesium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manganese"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NMR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_A"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_C"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_E"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_K"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#adiponectin"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#after_school_snacking_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#agricultrual_feast_meals"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#alveolar_cell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#amino_acids"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#anniversary_celebratory_meal"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#antimicrobial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#apical_membrane"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#ating_influenced_by_craving"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#basolateral_membrane"/>
     </Declaration>
     <Declaration>
         <Class IRI="#behavior_process"/>
@@ -60,10 +132,22 @@
         <Class IRI="#breastfeeding_stage"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#caffeine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#casein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#casein_micelles"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#celebratory_meal_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#chewing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cholesterol"/>
     </Declaration>
     <Declaration>
         <Class IRI="#colostrum"/>
@@ -327,10 +411,22 @@
         <Class IRI="#edenic"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#enhancing_calcium_absorption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#essential_fatty_acids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ethanol"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#ethically_regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#familial_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fat_content"/>
     </Declaration>
     <Declaration>
         <Class IRI="#feasting_meal_behavior"/>
@@ -342,6 +438,9 @@
         <Class IRI="#foremilk"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#free_fatty_acids"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#friend_social_gathering_meal"/>
     </Declaration>
     <Declaration>
@@ -349,6 +448,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#glandular_secretion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glycan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glycans"/>
     </Declaration>
     <Declaration>
         <Class IRI="#graduation_celebratory_meal"/>
@@ -363,6 +468,9 @@
         <Class IRI="#health_promoting_meal_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#heavy_metals"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#hindmilk"/>
     </Declaration>
     <Declaration>
@@ -375,13 +483,31 @@
         <Class IRI="#image_oriented_eating_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#immunoglobulins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#immunomodulatory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#infant_calories"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#infant_development_stage"/>
     </Declaration>
     <Declaration>
         <Class IRI="#infant_stage"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#insulin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#iron"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#jane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kappa-casein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#kosher"/>
@@ -393,13 +519,34 @@
         <Class IRI="#lactation_stage"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#lactation_system"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#lacto-vegetarian"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactoferrin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactose"/>
     </Declaration>
     <Declaration>
         <Class IRI="#late_night_snacking_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#licking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_epithelial_cell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_epithelial_cell_component"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_gland"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammary_gland_fluid"/>
@@ -420,13 +567,136 @@
         <Class IRI="#milk"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_amino_acids_free"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#milk_at_lactation_time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_biological_components"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_carbohydrate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_carbohydrate_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_carbohydrate_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_chemical_components"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_contaminant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_fat_globule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_fat_globules"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycopeptide_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycopeptide_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycopeptide_free"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_hormone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_hormone_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_hormones_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_form"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_mineral"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_mineral_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_mineral_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_free"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_modifiers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_production"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_production_process"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_proteases"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_protein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_protein_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_protein_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_vitamin_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_vitamin_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_vitamins"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#mlik_at_lactation_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monosaccharides"/>
     </Declaration>
     <Declaration>
         <Class IRI="#morning_snacking_behavior"/>
@@ -435,7 +705,28 @@
         <Class IRI="#non-self_regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#non_perscription_drugs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oligosaccharides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#opioid_agonist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#opioid_antagonist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#over-the-counter_medications"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peptides"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#performance_regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#perscription_drugs"/>
     </Declaration>
     <Declaration>
         <Class IRI="#personal_occasion_celebratory_meal"/>
@@ -444,16 +735,34 @@
         <Class IRI="#pescaterian_eating_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#pesticides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phospholipids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phosphorous"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#physiologically_self-regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#plant-based_eating_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#plastics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#post-translational_modification"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#post-workout__meal_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#promotion_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#protein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#psychological_eating_behavior"/>
@@ -510,6 +819,18 @@
         <Class IRI="#swallowing_process"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#taurine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#triclocarban"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#triclosan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#triglycerides"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#vegan_eating_behavior"/>
     </Declaration>
     <Declaration>
@@ -521,6 +842,26 @@
     <SubClassOf>
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
         <Class IRI="#eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ACE_inhibitory"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#B-vitamins"/>
+        <Class IRI="#milk_vitamin_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Calcium"/>
+        <Class IRI="#milk_mineral_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ELISA"/>
+        <Class IRI="#milk_hormones_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ESI-mass_spectrometry"/>
+        <Class IRI="#milk_glycopeptide_analysis_method"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
@@ -535,6 +876,74 @@
         <Class IRI="#eating_influenced_by_appetite"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#GC"/>
+        <Class IRI="#milk_lipid_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ICP-MS"/>
+        <Class IRI="#milk_mineral_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LC"/>
+        <Class IRI="#milk_lipid_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LC-UV-Vis"/>
+        <Class IRI="#milk_carbohydrate_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MALDI-MS"/>
+        <Class IRI="#milk_lipid_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MS"/>
+        <Class IRI="#milk_carbohydrate_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MS"/>
+        <Class IRI="#milk_glycoprotein_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MS"/>
+        <Class IRI="#milk_protein_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MS"/>
+        <Class IRI="#milk_vitamin_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magnesium"/>
+        <Class IRI="#milk_mineral_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manganese"/>
+        <Class IRI="#milk_mineral_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NMR"/>
+        <Class IRI="#milk_vitamin_analysis_method"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vitamin_A"/>
+        <Class IRI="#milk_vitamin_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vitamin_C"/>
+        <Class IRI="#milk_vitamin_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vitamin_E"/>
+        <Class IRI="#milk_vitamin_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vitamin_K"/>
+        <Class IRI="#milk_vitamin_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#adiponectin"/>
+        <Class IRI="#milk_hormone_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#after_school_snacking_behavior"/>
         <Class IRI="#snacking_behavior"/>
     </SubClassOf>
@@ -543,12 +952,32 @@
         <Class IRI="#feasting_meal_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#alveolar_cell"/>
+        <Class IRI="#mammary_epithelial_cell"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amino_acids"/>
+        <Class IRI="#milk_peptide_composition"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#anniversary_celebratory_meal"/>
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#antimicrobial"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#apical_membrane"/>
+        <Class IRI="#mammary_epithelial_cell_component"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#ating_influenced_by_craving"/>
         <Class IRI="#eating_influenced_by_emotions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#basolateral_membrane"/>
+        <Class IRI="#mammary_epithelial_cell_component"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#behavior_process"/>
@@ -563,12 +992,28 @@
         <Class IRI="#infant_development_stage"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#caffeine"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#casein"/>
+        <Class IRI="#milk_protein_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#casein_micelles"/>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#celebratory_meal_behavior"/>
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#chewing_behavior"/>
         <Class IRI="#eating_behavior_mode"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cholesterol"/>
+        <Class IRI="#milk_lipid_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#colostrum"/>
@@ -919,12 +1364,28 @@
         <Class IRI="#religiously_regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#enhancing_calcium_absorption"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#essential_fatty_acids"/>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ethanol"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#ethically_regulated_eating_behavior"/>
         <Class IRI="#regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#familial_meal"/>
         <Class IRI="#soical_meal_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fat_content"/>
+        <Class IRI="#milk_lipid_property"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#feasting_meal_behavior"/>
@@ -939,6 +1400,10 @@
         <Class IRI="#milk_at_lactation_time"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#free_fatty_acids"/>
+        <Class IRI="#milk_lipid_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#friend_social_gathering_meal"/>
         <Class IRI="#soical_meal_behavior"/>
     </SubClassOf>
@@ -949,6 +1414,14 @@
     <SubClassOf>
         <Class IRI="#glandular_secretion"/>
         <Class IRI="http://purl.obolibrary.org/obo/UBERON_0000456"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#glycan"/>
+        <Class IRI="#milk_glycoprotein_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#glycans"/>
+        <Class IRI="#milk_glycopeptide_composition"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#graduation_celebratory_meal"/>
@@ -967,6 +1440,10 @@
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#heavy_metals"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#hindmilk"/>
         <Class IRI="#milk_at_lactation_time"/>
     </SubClassOf>
@@ -983,6 +1460,18 @@
         <Class IRI="#regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#immunoglobulins"/>
+        <Class IRI="#milk_glycoprotein_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#immunomodulatory"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#infant_calories"/>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#infant_development_stage"/>
         <Class IRI="#infant_stage"/>
     </SubClassOf>
@@ -991,8 +1480,20 @@
         <Class IRI="http://purl.obolibrary.org/obo/UBERON_0000105"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#insulin"/>
+        <Class IRI="#milk_hormone_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#iron"/>
+        <Class IRI="#milk_mineral_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#jane"/>
         <Class IRI="#religiously_regulated_eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kappa-casein"/>
+        <Class IRI="#milk_glycoprotein_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#kosher"/>
@@ -1007,8 +1508,20 @@
         <Class IRI="http://purl.obolibrary.org/obo/UBERON_0000105"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#lactation_system"/>
+        <Class IRI="http://purl.obolibrary.org/obo/UBERON_0002330"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#lacto-vegetarian"/>
         <Class IRI="#religiously_regulated_eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lactoferrin"/>
+        <Class IRI="#milk_glycoprotein_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lactose"/>
+        <Class IRI="#milk_carbohydrate_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#late_night_snacking_behavior"/>
@@ -1019,8 +1532,28 @@
         <Class IRI="#eating_behavior_mode"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#mammary_epithelial_cell"/>
+        <Class IRI="#milk_biological_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mammary_epithelial_cell_component"/>
+        <Class IRI="#mammary_epithelial_cell"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
+        <Class IRI="#mammary_epithelial_cell"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mammary_gland"/>
+        <Class IRI="http://purl.obolibrary.org/obo/UBERON_0002365"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#mammary_gland_fluid"/>
         <Class IRI="#glandular_fluid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mammary_gland_fluid"/>
+        <Class IRI="#mammary_gland"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mammary_gland_secretion"/>
@@ -1047,16 +1580,180 @@
         <Class IRI="#mammary_gland_secretion"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#milk_amino_acids_free"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#milk_at_lactation_time"/>
         <Class IRI="#milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_biological_components"/>
+        <Class IRI="#milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_carbohydrate"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_carbohydrate_analysis_method"/>
+        <Class IRI="#milk_carbohydrate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_carbohydrate_type"/>
+        <Class IRI="#milk_carbohydrate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_chemical_components"/>
+        <Class IRI="#milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_contaminant"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_fat_globule"/>
+        <Class IRI="#milk_lipid_form"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_fat_globules"/>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycopeptide_analysis_method"/>
+        <Class IRI="#milk_glycopeptide_free"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycopeptide_composition"/>
+        <Class IRI="#milk_glycopeptide_free"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycopeptide_free"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycoprotein"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycoprotein_analysis_method"/>
+        <Class IRI="#milk_glycoprotein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycoprotein_composition"/>
+        <Class IRI="#milk_glycoprotein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_glycoprotein_type"/>
+        <Class IRI="#milk_glycoprotein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_hormone"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_hormone_type"/>
+        <Class IRI="#milk_hormone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_hormones_analysis_method"/>
+        <Class IRI="#milk_hormone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_lipid"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_lipid_analysis_method"/>
+        <Class IRI="#milk_lipid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_lipid_form"/>
+        <Class IRI="#milk_lipid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
+        <Class IRI="#milk_lipid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_lipid_property"/>
+        <Class IRI="#milk_lipid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_lipid_type"/>
+        <Class IRI="#milk_lipid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_mineral"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_mineral_analysis_method"/>
+        <Class IRI="#milk_mineral"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_mineral_type"/>
+        <Class IRI="#milk_mineral"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_peptide_composition"/>
+        <Class IRI="#milk_peptide_free"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_peptide_free"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_peptide_modifiers"/>
+        <Class IRI="#milk_peptide_free"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_peptide_possible_functions"/>
+        <Class IRI="#milk_peptide_free"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_peptide_production"/>
+        <Class IRI="#milk_peptide_free"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_production_process"/>
         <Class IRI="http://purl.obolibrary.org/obo/GO_0008150"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#milk_proteases"/>
+        <Class IRI="#milk_peptide_production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_protein"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_protein_analysis_method"/>
+        <Class IRI="#milk_protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_protein_type"/>
+        <Class IRI="#milk_protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_vitamin_analysis_method"/>
+        <Class IRI="#milk_vitamins"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_vitamin_type"/>
+        <Class IRI="#milk_vitamins"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_vitamins"/>
+        <Class IRI="#milk_chemical_components"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#mlik_at_lactation_stage"/>
         <Class IRI="#milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#monosaccharides"/>
+        <Class IRI="#milk_carbohydrate_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#morning_snacking_behavior"/>
@@ -1067,8 +1764,36 @@
         <Class IRI="#eating_influenced_by_external_stimuli"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#non_perscription_drugs"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oligosaccharides"/>
+        <Class IRI="#milk_carbohydrate_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#opioid_agonist"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#opioid_antagonist"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#over-the-counter_medications"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peptides"/>
+        <Class IRI="#milk_glycopeptide_composition"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#performance_regulated_eating_behavior"/>
         <Class IRI="#regulated_eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#perscription_drugs"/>
+        <Class IRI="#milk_contaminant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#personal_occasion_celebratory_meal"/>
@@ -1079,6 +1804,18 @@
         <Class IRI="#ethically_regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#pesticides"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phospholipids"/>
+        <Class IRI="#milk_lipid_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phosphorous"/>
+        <Class IRI="#milk_mineral_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#physiologically_self-regulated_eating_behavior"/>
         <Class IRI="#self-regulated_eating_behavior"/>
     </SubClassOf>
@@ -1087,12 +1824,24 @@
         <Class IRI="#ethically_regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#plastics"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#post-translational_modification"/>
+        <Class IRI="#milk_peptide_modifiers"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#post-workout__meal_behavior"/>
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#promotion_celebratory_meal"/>
         <Class IRI="#celebratory_meal_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#protein"/>
+        <Class IRI="#milk_glycoprotein_composition"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#psychological_eating_behavior"/>
@@ -1167,6 +1916,22 @@
         <Class IRI="#digestive_process"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#taurine"/>
+        <Class IRI="#milk_amino_acids_free"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#triclocarban"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#triclosan"/>
+        <Class IRI="#milk_contaminant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#triglycerides"/>
+        <Class IRI="#milk_lipid_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#vegan_eating_behavior"/>
         <Class IRI="#ethically_regulated_eating_behavior"/>
     </SubClassOf>
@@ -1178,6 +1943,153 @@
         <Class IRI="#wedding_celebratory_meal"/>
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#ACE_inhibitory"/>
+        <Class IRI="#antimicrobial"/>
+        <Class IRI="#enhancing_calcium_absorption"/>
+        <Class IRI="#immunomodulatory"/>
+        <Class IRI="#opioid_agonist"/>
+        <Class IRI="#opioid_antagonist"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#B-vitamins"/>
+        <Class IRI="#Vitamin_A"/>
+        <Class IRI="#Vitamin_C"/>
+        <Class IRI="#Vitamin_E"/>
+        <Class IRI="#Vitamin_K"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Calcium"/>
+        <Class IRI="#Magnesium"/>
+        <Class IRI="#Manganese"/>
+        <Class IRI="#iron"/>
+        <Class IRI="#phosphorous"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#GC"/>
+        <Class IRI="#LC"/>
+        <Class IRI="#MALDI-MS"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#LC-UV-Vis"/>
+        <Class IRI="#MS"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#MS"/>
+        <Class IRI="#NMR"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#adiponectin"/>
+        <Class IRI="#insulin"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#alveolar_cell"/>
+        <Class IRI="#mammary_epithelial_cell_component"/>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#apical_membrane"/>
+        <Class IRI="#basolateral_membrane"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#caffeine"/>
+        <Class IRI="#ethanol"/>
+        <Class IRI="#heavy_metals"/>
+        <Class IRI="#non_perscription_drugs"/>
+        <Class IRI="#over-the-counter_medications"/>
+        <Class IRI="#perscription_drugs"/>
+        <Class IRI="#pesticides"/>
+        <Class IRI="#plastics"/>
+        <Class IRI="#triclocarban"/>
+        <Class IRI="#triclosan"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#casein_micelles"/>
+        <Class IRI="#milk_fat_globules"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#cholesterol"/>
+        <Class IRI="#free_fatty_acids"/>
+        <Class IRI="#phospholipids"/>
+        <Class IRI="#triglycerides"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#essential_fatty_acids"/>
+        <Class IRI="#infant_calories"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#glycan"/>
+        <Class IRI="#protein"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#glycans"/>
+        <Class IRI="#peptides"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#immunoglobulins"/>
+        <Class IRI="#kappa-casein"/>
+        <Class IRI="#lactoferrin"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#lactose"/>
+        <Class IRI="#monosaccharides"/>
+        <Class IRI="#oligosaccharides"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_amino_acids_free"/>
+        <Class IRI="#milk_carbohydrate"/>
+        <Class IRI="#milk_contaminant"/>
+        <Class IRI="#milk_glycopeptide_free"/>
+        <Class IRI="#milk_glycoprotein"/>
+        <Class IRI="#milk_hormone"/>
+        <Class IRI="#milk_lipid"/>
+        <Class IRI="#milk_mineral"/>
+        <Class IRI="#milk_peptide_free"/>
+        <Class IRI="#milk_protein"/>
+        <Class IRI="#milk_vitamins"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_carbohydrate_analysis_method"/>
+        <Class IRI="#milk_carbohydrate_type"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_glycopeptide_analysis_method"/>
+        <Class IRI="#milk_glycopeptide_composition"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_glycoprotein_analysis_method"/>
+        <Class IRI="#milk_glycoprotein_composition"/>
+        <Class IRI="#milk_glycoprotein_type"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_hormone_type"/>
+        <Class IRI="#milk_hormones_analysis_method"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_lipid_analysis_method"/>
+        <Class IRI="#milk_lipid_form"/>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
+        <Class IRI="#milk_lipid_property"/>
+        <Class IRI="#milk_lipid_type"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_mineral_analysis_method"/>
+        <Class IRI="#milk_mineral_type"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_peptide_composition"/>
+        <Class IRI="#milk_peptide_modifiers"/>
+        <Class IRI="#milk_peptide_possible_functions"/>
+        <Class IRI="#milk_peptide_production"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_protein_analysis_method"/>
+        <Class IRI="#milk_protein_type"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#milk_vitamin_analysis_method"/>
+        <Class IRI="#milk_vitamin_type"/>
+    </DisjointClasses>
 </Ontology>
 
 
