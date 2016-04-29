@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="file:/imports/uberon_import.owl" uri="ontology/imports/uberon_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/ro_import.owl" uri="ontology/imports/ro_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/envo_import.owl" uri="ontology/imports/envo_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/chebi_import.owl" uri="ontology/imports/chebi_import.owl"/>
+    <uri id="Imports Wizard Entry" name="file:/imports/bfo_import.owl" uri="ontology/imports/bfo_import.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20" uri="ontology/imports/uc_processing.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="ontology/imports/uc_eating.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/foodon-edit.owl" uri="file:/C:/Users/mateolan/Documents/GitHub/uc_Processing/ontology/uc_processing.owl"/>
     <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="file:/C:/Users/mateolan/Documents/GitHub/uc_Eating/ontology/uc_eating.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
