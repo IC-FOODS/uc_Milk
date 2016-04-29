@@ -1,36 +1,237 @@
 <?xml version="1.0"?>
-
-
-<!DOCTYPE Ontology [
-    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
-    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
-    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
-    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
-]>
-
-
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
      xml:base="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11">
-    <Prefix name="" IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11#"/>
+    <Prefix name="" IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Import>file:/imports/bfo_import.owl</Import>
-    <Import>file:/imports/envo_import.owl</Import>
     <Import>file:/imports/ro_import.owl</Import>
+    <Import>file:/imports/bfo_import.owl</Import>
     <Import>file:/imports/uberon_import.owl</Import>
+    <Import>file:/imports/envo_import.owl</Import>
     <Import>file:/imports/chebi_import.owl</Import>
+    <Declaration>
+        <Class IRI="#health-oriented_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_carbohydrate_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_senses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_moderate_metabolic_rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fat_content"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#socio-cultural_feast_meals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#essential_fatty_acids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#holiday_meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#snacking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_epithelial_cell_component"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_fat_globule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_geography"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ICP-MS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_body_type_ectomorph"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#swallowing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_emotions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#halal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#religous_holiday_meals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glycan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_gender"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#casein_micelles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_jealousy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#jane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_hormone_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#consumption_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_gratitude"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#opioid_agonist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ESI-mass_spectrometry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#compensate_for_other_foods_consumed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#post-translational_modification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#agricultrual_feast_meals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_K"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_biking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phospholipids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#apical_membrane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#basolateral_membrane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kappa-casein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactoferrin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#late_night_snacking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ACE_inhibitory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_economics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactation_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_frustration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#wedding_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cholesterol"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_social_environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#infant_calories"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_amino_acids_free"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lacto-vegetarian"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_euphoria"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycopeptide_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#vegetarian_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_addiction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_working_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#caffeine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#opioid_antagonist"/>
+    </Declaration>
     <Declaration>
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ACE_inhibitory"/>
+        <Class IRI="#milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_regulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_protein_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_peer_pressure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#vegan_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#heavy_metals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peptides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glandular_secretion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_boredom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#digestive_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_crying_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#B-vitamins"/>
@@ -39,787 +240,82 @@
         <Class IRI="#Calcium"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ELISA"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ESI-mass_spectrometry"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Eating_influenced_by_body_size/type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#GC"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ICP-MS"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#LC"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#LC-UV-Vis"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#MALDI-MS"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#MS"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Magnesium"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Manganese"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#NMR"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Vitamin_A"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Vitamin_C"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Vitamin_E"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Vitamin_K"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#adiponectin"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#after_school_snacking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#agricultrual_feast_meals"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#alveolar_cell"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#amino_acids"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#anniversary_celebratory_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#antimicrobial"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#apical_membrane"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ating_influenced_by_craving"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#basolateral_membrane"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#behavior_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#birthday_celebratory_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#breastfeeding_stage"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#caffeine"/>
+        <Class IRI="#enhancing_calcium_absorption"/>
     </Declaration>
     <Declaration>
         <Class IRI="#casein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#casein_micelles"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#celebratory_meal_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#chewing_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#cholesterol"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#colostrum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#compensate_for_other_foods_consumed"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#compensate_for_physical_activity"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#compensate_for_sleep"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#compensate_for_stress"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#compensatory_meal_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#consumption_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#consumption_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#digestive_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#drinking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_behavior_mode"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_accessibility"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_acute_illness"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_addiction"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_anger"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_anxiety"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_appetite"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_body_type_ectomorph"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_body_type_endomorph"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_body_type_mesomorph"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_boredom"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_chronic_illness"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_contempt"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_culture"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_depression"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_disease_state"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_economics"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_embarrassment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_emotions"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_euphoria"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_external_stimuli"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_familial_pressure"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_fast_metabolic_rate"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_fear"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_food_environment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_frustration"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_gender"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_geography"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_gratitude"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_guilt"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_happiness"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_hereditary_illness"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_home_environment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_individual_genetics"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_internal_stimuli"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_jealousy"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_loneliness"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_media"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_metabolic_rates"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_moderate_metabolic_rate"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_peer_pressure"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_regret"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_regulation"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_sadness"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_school_environment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_senses"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_slow_metabolic_rate"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_smell"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_social_environment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_socio-cultural_stimuli"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_sounds"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_stress"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_touch"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_transportation"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_visual_perception"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_influenced_by_work_environment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_bathing_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_biking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_crying_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_defecating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_driving_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_exercising_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_laughing_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_laying_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_lounging_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_reading_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_running_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_seated_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_studying_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_swimming_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_talking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_walking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_working_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#eating_while_yelling_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#edenic"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#enhancing_calcium_absorption"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#essential_fatty_acids"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ethanol"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ethically_regulated_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#familial_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#fat_content"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#feasting_meal_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#feeding_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#foremilk"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#free_fatty_acids"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#friend_social_gathering_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#glandular_fluid"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#glandular_secretion"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#glycan"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#glycans"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#graduation_celebratory_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#halal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#health-oriented_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#health_promoting_meal_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#heavy_metals"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#hindmilk"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#holiday_meal_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#hunger_oriented_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#image_oriented_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#immunoglobulins"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#immunomodulatory"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#infant_calories"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#infant_development_stage"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#infant_stage"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#insulin"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#iron"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#jane"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#kappa-casein"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#kosher"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactation_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactation_stage"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactation_system"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lacto-vegetarian"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactoferrin"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactose"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#late_night_snacking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#licking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mammary_epithelial_cell"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mammary_epithelial_cell_component"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mammary_epithelial_cell_secretion"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mammary_gland"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mammary_gland_fluid"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mammary_gland_secretion"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#meal_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mechanical_food_breakdown"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mid-day_snacking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_amino_acids_free"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_at_lactation_time"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_biological_components"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_carbohydrate"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_carbohydrate_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_carbohydrate_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_chemical_components"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_contaminant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_fat_globule"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_fat_globules"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycopeptide_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycopeptide_composition"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycopeptide_free"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycoprotein"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycoprotein_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycoprotein_composition"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_glycoprotein_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_hormone"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_hormone_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_hormones_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid_form"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid_nutrient_provision"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid_property"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_mineral"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_mineral_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_mineral_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_peptide_composition"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_peptide_free"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_peptide_modifiers"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_peptide_possible_functions"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_peptide_production"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_production_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_proteases"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_protein"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_protein_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_protein_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_vitamin_analysis_method"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_vitamin_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_vitamins"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mlik_at_lactation_stage"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#monosaccharides"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#morning_snacking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#non-self_regulated_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#non_perscription_drugs"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#oligosaccharides"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#opioid_agonist"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#opioid_antagonist"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#over-the-counter_medications"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#peptides"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#performance_regulated_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#perscription_drugs"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#personal_occasion_celebratory_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#pescaterian_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#pesticides"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#phospholipids"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#phosphorous"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#physiologically_self-regulated_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#plant-based_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#plastics"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#post-translational_modification"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#post-workout__meal_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#promotion_celebratory_meal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#protein"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#psychological_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#regulated_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#religiously_regulated_eating_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#religous_holiday_meals"/>
+        <Class IRI="#stage_1_mammogenesis"/>
     </Declaration>
     <Declaration>
         <Class IRI="#religous_meal_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#secular_holiday_meals"/>
+        <Class IRI="#mammary_gland"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#self-regulated_eating_behavior"/>
+        <Class IRI="#pesticides"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sipping_behavior"/>
+        <Class IRI="#eating_while_walking_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#slurp_behavior"/>
+        <Class IRI="#eating_while_talking_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#snacking_behavior"/>
+        <Class IRI="#non_perscription_drugs"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#socio-cultural_feast_meals"/>
+        <Class IRI="#milk_hormone"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#soical_meal_behavior"/>
+        <Class IRI="#celebratory_meal_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#stage_1_mammogenesis"/>
+        <Class IRI="#eating_influenced_by_culture"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#stage_2_lactogenesis"/>
+        <Class IRI="#MS"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sucking"/>
+        <Class IRI="#milk_glycopeptide_composition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#suckling_behavior"/>
+        <Class IRI="#immunomodulatory"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#swallowing_behavior"/>
+        <Class IRI="#eating_influenced_by_socio-cultural_stimuli"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#swallowing_process"/>
+        <Class IRI="#eating_influenced_by_smell"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#taurine"/>
+        <Class IRI="#eating_influenced_by_sounds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_disease_state"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mechanical_food_breakdown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_production"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_slow_metabolic_rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#triglycerides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_at_lactation_time"/>
     </Declaration>
     <Declaration>
         <Class IRI="#triclocarban"/>
@@ -828,16 +324,514 @@
         <Class IRI="#triclosan"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#triglycerides"/>
+        <Class IRI="#milk_mineral"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#vegan_eating_behavior"/>
+        <Class IRI="#eating_influenced_by_contempt"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#vegetarian_eating_behavior"/>
+        <Class IRI="#eating_while_seated_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#wedding_celebratory_meal"/>
+        <Class IRI="#eating_influenced_by_regret"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foremilk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_body_type_endomorph"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eating_influenced_by_body_size/type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_loneliness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mid-day_snacking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manganese"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#amino_acids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#edenic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#physiologically_self-regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_fat_globules"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glandular_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#breastfeeding_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_vitamin_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#compensate_for_stress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anniversary_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_fear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#meal_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactation_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_contaminant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_bathing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glycans"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_chronic_illness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_protein_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycopeptide_free"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#perscription_drugs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_fast_metabolic_rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_anxiety"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#morning_snacking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NMR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#health_promoting_meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_hormones_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MALDI-MS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monosaccharides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_visual_perception"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#drinking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pescaterian_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#religiously_regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ELISA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_lounging_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_touch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#familial_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#antimicrobial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#immunoglobulins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_happiness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#plant-based_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_running_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#consumption_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_stress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chewing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#food"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#self-regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_C"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_appetite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_yelling_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#compensate_for_sleep"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#suckling_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_form"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#performance_regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oligosaccharides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#image_oriented_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#compensatory_meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#personal_occasion_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#psychological_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#adiponectin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_sadness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_gland_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#alveolar_cell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_modifiers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_epithelial_cell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#plastics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#taurine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_lipid_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#graduation_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#feeding_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_chemical_components"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_accessibility"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#licking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_metabolic_rates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_home_environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#after_school_snacking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_reading_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_individual_genetics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#feasting_meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#infant_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_A"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_driving_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_free"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_proteases"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#iron"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_transportation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_familial_pressure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_guilt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_hereditary_illness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sucking"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hindmilk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LC-UV-Vis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_carbohydrate_analysis_method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#free_fatty_acids"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_gland_secretion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_defecating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#insulin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_laying_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_glycoprotein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#friend_social_gathering_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#non-self_regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hunger_oriented_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_vitamin_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_protein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ethically_regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_behavior_mode"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ating_influenced_by_craving"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_school_environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#regulated_eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phosphorous"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#behavior_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_media"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_embarrassment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_mineral_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_production_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#slurp_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#promotion_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_vitamins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_internal_stimuli"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_peptide_possible_functions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_laughing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#swallowing_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ethanol"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_studying_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_depression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_body_type_mesomorph"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_food_environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Magnesium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#colostrum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#post-workout__meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactation_system"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#compensate_for_physical_activity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#birthday_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kosher"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sipping_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#soical_meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#infant_development_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mlik_at_lactation_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_external_stimuli"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_acute_illness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#stage_2_lactogenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_anger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_swimming_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#over-the-counter_medications"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vitamin_E"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_work_environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#secular_holiday_meals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_while_exercising_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_carbohydrate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#protein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_biological_components"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_mineral_analysis_method"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
@@ -862,18 +856,6 @@
     <SubClassOf>
         <Class IRI="#ESI-mass_spectrometry"/>
         <Class IRI="#milk_glycopeptide_analysis_method"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
-        <Class IRI="#eating_influenced_by_appetite"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
-        <Class IRI="#eating_influenced_by_accessibility"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Eating_influenced_by_body_size/type"/>
-        <Class IRI="#eating_influenced_by_appetite"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#GC"/>
@@ -1943,6 +1925,18 @@
         <Class IRI="#wedding_celebratory_meal"/>
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
+        <Class IRI="#eating_influenced_by_appetite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
+        <Class IRI="#eating_influenced_by_accessibility"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eating_influenced_by_body_size/type"/>
+        <Class IRI="#eating_influenced_by_appetite"/>
+    </SubClassOf>
     <DisjointClasses>
         <Class IRI="#ACE_inhibitory"/>
         <Class IRI="#antimicrobial"/>
@@ -2094,5 +2088,5 @@
 
 
 
-<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 4.2.1.20160306-0033) https://github.com/owlcs/owlapi -->
 
