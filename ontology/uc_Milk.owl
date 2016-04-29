@@ -11,25 +11,34 @@
 
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
      xml:base="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11">
     <Prefix name="" IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Import>file:/imports/ro_import.owl</Import>
     <Import>file:/imports/bfo_import.owl</Import>
-    <Import>file:/imports/uberon_import.owl</Import>
     <Import>file:/imports/envo_import.owl</Import>
+    <Import>file:/imports/ro_import.owl</Import>
+    <Import>file:/imports/uberon_import.owl</Import>
     <Import>file:/imports/chebi_import.owl</Import>
     <Declaration>
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eating_influenced_by_body_size/type"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#after_school_snacking_behavior"/>
     </Declaration>
     <Declaration>
@@ -48,10 +57,16 @@
         <Class IRI="#birthday_celebratory_meal"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#breastfeeding_stage"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#celebratory_meal_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#chewing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#colostrum"/>
     </Declaration>
     <Declaration>
         <Class IRI="#compensate_for_other_foods_consumed"/>
@@ -75,10 +90,16 @@
         <Class IRI="#consumption_process"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#digestive_process"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#drinking_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_behavior_mode"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_accessibility"/>
@@ -246,6 +267,9 @@
         <Class IRI="#eating_influenced_by_work_environment"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#eating_process"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#eating_while_bathing_behavior"/>
     </Declaration>
     <Declaration>
@@ -315,7 +339,16 @@
         <Class IRI="#feeding_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#foremilk"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#friend_social_gathering_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glandular_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glandular_secretion"/>
     </Declaration>
     <Declaration>
         <Class IRI="#graduation_celebratory_meal"/>
@@ -330,6 +363,9 @@
         <Class IRI="#health_promoting_meal_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#hindmilk"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#holiday_meal_behavior"/>
     </Declaration>
     <Declaration>
@@ -339,10 +375,22 @@
         <Class IRI="#image_oriented_eating_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#infant_development_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#infant_stage"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#jane"/>
     </Declaration>
     <Declaration>
         <Class IRI="#kosher"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactation_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactation_stage"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lacto-vegetarian"/>
@@ -354,6 +402,12 @@
         <Class IRI="#licking_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#mammary_gland_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammary_gland_secretion"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#meal_eating_behavior"/>
     </Declaration>
     <Declaration>
@@ -361,6 +415,18 @@
     </Declaration>
     <Declaration>
         <Class IRI="#mid-day_snacking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_at_lactation_time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_production_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mlik_at_lactation_stage"/>
     </Declaration>
     <Declaration>
         <Class IRI="#morning_snacking_behavior"/>
@@ -426,10 +492,22 @@
         <Class IRI="#soical_meal_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#stage_1_mammogenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#stage_2_lactogenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sucking"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#suckling_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#swallowing_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#swallowing_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#vegan_eating_behavior"/>
@@ -440,18 +518,21 @@
     <Declaration>
         <Class IRI="#wedding_celebratory_meal"/>
     </Declaration>
-    <Declaration>
-        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Eating_influenced_by_body_size/type"/>
-    </Declaration>
     <SubClassOf>
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
         <Class IRI="#eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
+        <Class IRI="#eating_influenced_by_appetite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
+        <Class IRI="#eating_influenced_by_accessibility"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eating_influenced_by_body_size/type"/>
+        <Class IRI="#eating_influenced_by_appetite"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#after_school_snacking_behavior"/>
@@ -478,12 +559,20 @@
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#breastfeeding_stage"/>
+        <Class IRI="#infant_development_stage"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#celebratory_meal_behavior"/>
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#chewing_behavior"/>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#eating_behavior_mode"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#colostrum"/>
+        <Class IRI="#mammary_gland_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#compensate_for_other_foods_consumed"/>
@@ -514,12 +603,20 @@
         <Class IRI="http://purl.obolibrary.org/obo/GO_0008150"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#digestive_process"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000015"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#drinking_behavior"/>
         <Class IRI="#feeding_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#eating_behavior"/>
         <Class IRI="#feeding_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#eating_behavior_mode"/>
+        <Class IRI="#eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#eating_influenced_by_accessibility"/>
@@ -742,6 +839,10 @@
         <Class IRI="#eating_influenced_by_food_environment"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#eating_process"/>
+        <Class IRI="#digestive_process"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#eating_while_bathing_behavior"/>
         <Class IRI="http://www.semanticweb.org/kimi/ontologies/2016/3/eating_concomitant_with_other_behavior"/>
     </SubClassOf>
@@ -834,8 +935,20 @@
         <Class IRI="#consumption_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#foremilk"/>
+        <Class IRI="#milk_at_lactation_time"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#friend_social_gathering_meal"/>
         <Class IRI="#soical_meal_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#glandular_fluid"/>
+        <Class IRI="http://purl.obolibrary.org/obo/UBERON_0006314"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#glandular_secretion"/>
+        <Class IRI="http://purl.obolibrary.org/obo/UBERON_0000456"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#graduation_celebratory_meal"/>
@@ -854,6 +967,10 @@
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#hindmilk"/>
+        <Class IRI="#milk_at_lactation_time"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#holiday_meal_behavior"/>
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
@@ -866,12 +983,28 @@
         <Class IRI="#regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#infant_development_stage"/>
+        <Class IRI="#infant_stage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#infant_stage"/>
+        <Class IRI="http://purl.obolibrary.org/obo/UBERON_0000105"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#jane"/>
         <Class IRI="#religiously_regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#kosher"/>
         <Class IRI="#religiously_regulated_eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lactation_process"/>
+        <Class IRI="#milk_production_process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lactation_stage"/>
+        <Class IRI="http://purl.obolibrary.org/obo/UBERON_0000105"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lacto-vegetarian"/>
@@ -883,7 +1016,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#licking_behavior"/>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#eating_behavior_mode"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mammary_gland_fluid"/>
+        <Class IRI="#glandular_fluid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mammary_gland_secretion"/>
+        <Class IRI="#glandular_secretion"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#meal_eating_behavior"/>
@@ -896,6 +1037,26 @@
     <SubClassOf>
         <Class IRI="#mid-day_snacking_behavior"/>
         <Class IRI="#snacking_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk"/>
+        <Class IRI="#mammary_gland_fluid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk"/>
+        <Class IRI="#mammary_gland_secretion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_at_lactation_time"/>
+        <Class IRI="#milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_production_process"/>
+        <Class IRI="http://purl.obolibrary.org/obo/GO_0008150"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mlik_at_lactation_stage"/>
+        <Class IRI="#milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#morning_snacking_behavior"/>
@@ -963,11 +1124,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sipping_behavior"/>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#eating_behavior_mode"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#slurp_behavior"/>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#eating_behavior_mode"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#snacking_behavior"/>
@@ -982,12 +1143,28 @@
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#stage_1_mammogenesis"/>
+        <Class IRI="#lactation_stage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#stage_2_lactogenesis"/>
+        <Class IRI="#lactation_stage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sucking"/>
+        <Class IRI="#eating_behavior_mode"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#suckling_behavior"/>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#eating_behavior_mode"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#swallowing_behavior"/>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#eating_behavior_mode"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#swallowing_process"/>
+        <Class IRI="#digestive_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#vegan_eating_behavior"/>
@@ -1000,22 +1177,10 @@
     <SubClassOf>
         <Class IRI="#wedding_celebratory_meal"/>
         <Class IRI="#celebratory_meal_behavior"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
-        <Class IRI="#eating_influenced_by_appetite"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
-        <Class IRI="#eating_influenced_by_accessibility"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Eating_influenced_by_body_size/type"/>
-        <Class IRI="#eating_influenced_by_appetite"/>
     </SubClassOf>
 </Ontology>
 
 
 
-<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
 
