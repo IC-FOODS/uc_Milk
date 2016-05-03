@@ -30,10 +30,10 @@
         <Class IRI="#eating_influenced_by_senses"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#iron_binding"/>
+        <Class IRI="#milk_physical_property"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_physical_property"/>
+        <Class IRI="#iron_binding"/>
     </Declaration>
     <Declaration>
         <Class IRI="#phenylalanine"/>
@@ -42,10 +42,10 @@
         <Class IRI="#ice_cream"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#socio-cultural_feast_meals"/>
+        <Class IRI="#milk_lipid_nutrient_provision"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_lipid_nutrient_provision"/>
+        <Class IRI="#socio-cultural_feast_meals"/>
     </Declaration>
     <Declaration>
         <Class IRI="#holiday_meal_behavior"/>
@@ -75,25 +75,28 @@
         <Class IRI="#whey"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#day_3_to_day_8_postpartum_period"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#religous_holiday_meals"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#day_3_to_day_8_postpartum_period"/>
+        <Class IRI="#protein_composition"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_jealousy"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#jane"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_hormone_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactoferrin_property"/>
+        <Class IRI="#jane"/>
     </Declaration>
     <Declaration>
         <Class IRI="#scurvy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactoferrin_property"/>
     </Declaration>
     <Declaration>
         <Class IRI="#opioid_agonist"/>
@@ -108,19 +111,25 @@
         <Class IRI="#GC"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Cytomegalovirus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#agricultrual_feast_meals"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#post-translational_modification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Vitamin_A_deficiency_consequence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#agricultrual_feast_meals"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#phospholipids"/>
     </Declaration>
     <Declaration>
         <Class IRI="#kappa-casein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#human_lymphotropic_virus"/>
     </Declaration>
     <Declaration>
         <Class IRI="#riboflavin"/>
@@ -135,10 +144,10 @@
         <Class IRI="#late_night_snacking_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#plasmin_activator_product"/>
+        <Class IRI="#GC_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GC_type"/>
+        <Class IRI="#plasmin_activator_product"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_protease"/>
@@ -147,13 +156,19 @@
         <Class IRI="#environment"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#oligosaccharide"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#milk_sensory_attribute_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#beta-casein_modification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lactation_stage"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#beta-casein_modification"/>
+        <Class IRI="#HIV"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glycan_type"/>
@@ -174,10 +189,10 @@
         <Class IRI="#protease"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#butyrophilin"/>
+        <Class IRI="#lacto-vegetarian"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lacto-vegetarian"/>
+        <Class IRI="#butyrophilin"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_euphoria"/>
@@ -187,6 +202,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_addiction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#microbial_food_source_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#opioid_antagonist"/>
@@ -207,28 +225,28 @@
         <Class IRI="#N-linked_composition"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#eating_influenced_by_peer_pressure"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#vegan_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#retionol_in_human_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_peer_pressure"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#during_digestion;_precipitation_due_to_rennin,pH"/>
+        <Class IRI="#enzyme_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#heavy_metals"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#enzyme_type"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#fatty_acid_tail"/>
+        <Class IRI="#during_digestion;_precipitation_due_to_rennin,pH"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pasteurization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fatty_acid_tail"/>
     </Declaration>
     <Declaration>
         <Class IRI="#between_residues_105_and_106"/>
@@ -264,13 +282,13 @@
         <Class IRI="#oligosaccharide_definition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#serine"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#eating_while_walking_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pesticides"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#serine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_while_talking_behavior"/>
@@ -285,10 +303,10 @@
         <Class IRI="#stage_4_involution"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#celebratory_meal_behavior"/>
+        <Class IRI="#eating_influenced_by_culture"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_culture"/>
+        <Class IRI="#celebratory_meal_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#MS"/>
@@ -324,10 +342,10 @@
         <Class IRI="#delivery_increasing_of_iron_to_infant"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#amino_acid_type"/>
+        <Class IRI="#regulate_glucose_metabolism"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#regulate_glucose_metabolism"/>
+        <Class IRI="#amino_acid_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#triclosan"/>
@@ -354,10 +372,10 @@
         <Class IRI="#threonine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_fat_globule_triglyceride_core"/>
+        <Class IRI="#cathepsin_D"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#cathepsin_D"/>
+        <Class IRI="#milk_fat_globule_triglyceride_core"/>
     </Declaration>
     <Declaration>
         <Class IRI="#monosaccharide_composition"/>
@@ -387,10 +405,10 @@
         <Class IRI="#arginine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#physiologically_self-regulated_eating_behavior"/>
+        <Class IRI="#milk_fat_globule_membrane_protein_property"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_fat_globule_membrane_protein_property"/>
+        <Class IRI="#physiologically_self-regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glandular_fluid"/>
@@ -423,16 +441,19 @@
         <Class IRI="#milk_protein_analysis_method"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#non-fermented_cheese"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#plasmin_attribute"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_fast_metabolic_rate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_during_the_day"/>
+        <Class IRI="#peptide"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#peptide"/>
+        <Class IRI="#milk_during_the_day"/>
     </Declaration>
     <Declaration>
         <Class IRI="#scurvy_symptom"/>
@@ -450,22 +471,25 @@
         <Class IRI="#mid_pregnancy_to_day_2_postpartum_period"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#N-linked_glycosylation"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#prolactin-inhibiting_factor"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#post-translational_modification_type"/>
+        <Class IRI="#N-linked_glycosylation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_visual_perception"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#post-translational_modification_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glycan_linked_through_nitrogen_of_asparagine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#drinking_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rubella"/>
     </Declaration>
     <Declaration>
         <Class IRI="#methionine"/>
@@ -489,10 +513,10 @@
         <Class IRI="#eating_influenced_by_happiness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
+        <Class IRI="#plant-based_eating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#plant-based_eating_behavior"/>
+        <Class IRI="#Eating_influenced_by_availability/eating_influenced_by_supply"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_stress"/>
@@ -507,10 +531,10 @@
         <Class IRI="#Vitamin_C"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_yelling_behavior"/>
+        <Class IRI="#compensate_for_sleep"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#compensate_for_sleep"/>
+        <Class IRI="#eating_while_yelling_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#over-the-counter_medication_type"/>
@@ -576,10 +600,10 @@
         <Class IRI="#HAMLET:_Human_alpha-lactalbumin_made_lethal_to_tumor_cells"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#graduation_celebratory_meal"/>
+        <Class IRI="#plasmin_activation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#plasmin_activation"/>
+        <Class IRI="#graduation_celebratory_meal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#feeding_behavior"/>
@@ -591,10 +615,10 @@
         <Class IRI="#O-linked_composition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_accessibility"/>
+        <Class IRI="#Vitamin_B_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Vitamin_B_type"/>
+        <Class IRI="#eating_influenced_by_accessibility"/>
     </Declaration>
     <Declaration>
         <Class IRI="#nipple_pain/laceration"/>
@@ -630,10 +654,10 @@
         <Class IRI="#maintenance_of_epithelial_structures"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#day_9_to_weaning_period"/>
+        <Class IRI="#Vitamin_A"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Vitamin_A"/>
+        <Class IRI="#day_9_to_weaning_period"/>
     </Declaration>
     <Declaration>
         <Class IRI="#hexose"/>
@@ -648,6 +672,9 @@
         <Class IRI="#eating_influenced_by_familial_pressure"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#virus_type"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#sucking"/>
     </Declaration>
     <Declaration>
@@ -660,10 +687,10 @@
         <Class IRI="#phopholipid_property"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_behavior"/>
+        <Class IRI="#mammary_gland_secretion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_gland_secretion"/>
+        <Class IRI="#eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#insulin"/>
@@ -675,19 +702,22 @@
         <Class IRI="#enzyme"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#friend_social_gathering_meal"/>
+        <Class IRI="#O-linked"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#O-linked"/>
+        <Class IRI="#friend_social_gathering_meal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#non-self_regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bile-salt_activated_lipase_aid"/>
+        <Class IRI="#virus"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_vitamin_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bile-salt_activated_lipase_aid"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_protein"/>
@@ -717,19 +747,19 @@
         <Class IRI="#increased_protein_concentration"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#microbe"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#eating_influenced_by_media"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_processing_technique"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#breast_absecce"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_mineral_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#slurp_behavior"/>
+        <Class IRI="#breast_absecce"/>
     </Declaration>
     <Declaration>
         <Class IRI="#promotion_celebratory_meal"/>
@@ -738,19 +768,22 @@
         <Class IRI="#eating_process"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#slurp_behavior"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#holder_pasteurization"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_internal_stimuli"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#swallowing_process"/>
+        <Class IRI="#eating_while_laughing_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#ethanol"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_laughing_behavior"/>
+        <Class IRI="#swallowing_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glycine"/>
@@ -759,10 +792,10 @@
         <Class IRI="#heavy_metal_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_studying_behavior"/>
+        <Class IRI="#chymosin_rennet"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#chymosin_rennet"/>
+        <Class IRI="#eating_while_studying_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#plasmin_activator_type"/>
@@ -771,10 +804,10 @@
         <Class IRI="#eating_influenced_by_depression"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#kappa-casein_modification"/>
+        <Class IRI="#Magnesium"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Magnesium"/>
+        <Class IRI="#kappa-casein_modification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#colostrum"/>
@@ -783,13 +816,13 @@
         <Class IRI="#plasmin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ACE_inhibitory_modulation_blood_pressure"/>
+        <Class IRI="#tyrosine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#post-workout__meal_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#tyrosine"/>
+        <Class IRI="#ACE_inhibitory_modulation_blood_pressure"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lysine"/>
@@ -861,10 +894,10 @@
         <Class IRI="#casein_precipitation_application"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#O-linked_glycosylation"/>
+        <Class IRI="#high_mineral_concentration"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#high_mineral_concentration"/>
+        <Class IRI="#O-linked_glycosylation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_carbohydrate_type"/>
@@ -921,10 +954,10 @@
         <Class IRI="#triclocarban_utilization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#yogurt"/>
+        <Class IRI="#glutamic_acid"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#glutamic_acid"/>
+        <Class IRI="#yogurt"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glycan"/>
@@ -954,13 +987,13 @@
         <Class IRI="#milk_fat_globule_membrane_type"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#lactogenesis_stage_2_mature_milk"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Vitamin_K"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_while_biking_behavior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactogenesis_stage_2_mature_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#apical_membrane"/>
@@ -984,10 +1017,10 @@
         <Class IRI="#valine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ACE_inhibitory"/>
+        <Class IRI="#N-linked"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#N-linked"/>
+        <Class IRI="#ACE_inhibitory"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_economics"/>
@@ -1000,6 +1033,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#lactose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monosaccharide"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_lipid_property"/>
@@ -1020,6 +1056,9 @@
         <Class IRI="#afternoon_milk"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Hepatitis_B"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#milk_glycopeptide_analysis_method"/>
     </Declaration>
     <Declaration>
@@ -1027,6 +1066,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#eating_while_working_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polymer_of_amino_acids"/>
     </Declaration>
     <Declaration>
         <Class IRI="#caffeine"/>
@@ -1053,6 +1095,9 @@
         <Class IRI="#eating_influenced_by_boredom"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Chickenpox/Varicella"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#digestive_process"/>
     </Declaration>
     <Declaration>
@@ -1060,6 +1105,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#prolactin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hepatitis_C"/>
     </Declaration>
     <Declaration>
         <Class IRI="#casein"/>
@@ -1071,10 +1119,10 @@
         <Class IRI="#casein_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#stage_1_mammogenesis"/>
+        <Class IRI="#milk_fat_globule_membrane_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_fat_globule_membrane_protein"/>
+        <Class IRI="#stage_1_mammogenesis"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sialic_acid"/>
@@ -1083,10 +1131,10 @@
         <Class IRI="#immunoglobulin_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#O-linked_8_cores"/>
+        <Class IRI="#mammary_gland"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_gland"/>
+        <Class IRI="#O-linked_8_cores"/>
     </Declaration>
     <Declaration>
         <Class IRI="#beta-casein"/>
@@ -1096,6 +1144,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#non_perscription_drugs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#antimicrobial_component"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_hormone"/>
@@ -1137,22 +1188,22 @@
         <Class IRI="#dining_ware"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_peptide_production"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#peptide_composition"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mechanical_food_breakdown"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_peptide_production"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#eating_influenced_by_slow_metabolic_rate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#prolactin_activity"/>
+        <Class IRI="#milk_glycoprotein_composition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_glycoprotein_composition"/>
+        <Class IRI="#prolactin_activity"/>
     </Declaration>
     <Declaration>
         <Class IRI="#triglycerides"/>
@@ -1161,10 +1212,10 @@
         <Class IRI="#lactogenesis_stage"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#casein_micelle_analysis_method"/>
+        <Class IRI="#milk_at_lactation_time"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_at_lactation_time"/>
+        <Class IRI="#casein_micelle_analysis_method"/>
     </Declaration>
     <Declaration>
         <Class IRI="#triclocarban"/>
@@ -1191,19 +1242,19 @@
         <Class IRI="#eating_influenced_by_regret"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#foremilk"/>
+        <Class IRI="#fermented_milk_product"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fermented_milk_product"/>
+        <Class IRI="#foremilk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_body_type_endomorph"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#breast_engorgement"/>
+        <Class IRI="#protease_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#protease_type"/>
+        <Class IRI="#breast_engorgement"/>
     </Declaration>
     <Declaration>
         <Class IRI="#transitionnal_milk"/>
@@ -1242,10 +1293,10 @@
         <Class IRI="#anniversary_celebratory_meal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_contaminant"/>
+        <Class IRI="#vision"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#vision"/>
+        <Class IRI="#milk_contaminant"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_chronic_illness"/>
@@ -1254,13 +1305,16 @@
         <Class IRI="#progesterone"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_glycopeptide_free"/>
+        <Class IRI="#phodpho-head_group"/>
     </Declaration>
     <Declaration>
         <Class IRI="#perscription_drugs"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#phodpho-head_group"/>
+        <Class IRI="#milk_glycopeptide_free"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#protein_modification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_glycoprotein_type"/>
@@ -1269,10 +1323,10 @@
         <Class IRI="#eating_influenced_by_anxiety"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#morning_snacking_behavior"/>
+        <Class IRI="#maternal_hormone_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#maternal_hormone_type"/>
+        <Class IRI="#morning_snacking_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#plasminogen_inhibition"/>
@@ -1284,19 +1338,13 @@
         <Class IRI="#infant_gestational_age"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_hormones_analysis_method"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#health_promoting_meal_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_hormones_analysis_method"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#MALDI-MS"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#monosaccharides"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#cheese"/>
     </Declaration>
     <Declaration>
         <Class IRI="#low_carbohydrate_concentration"/>
@@ -1326,19 +1374,22 @@
         <Class IRI="#familial_meal"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#immunoglobulin_A"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#health_condition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#immunoglobulin_A"/>
+        <Class IRI="#West_Nile_virus"/>
     </Declaration>
     <Declaration>
         <Class IRI="#immunoglobulins"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#consumption_process"/>
+        <Class IRI="#eating_while_running_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_running_behavior"/>
+        <Class IRI="#consumption_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
@@ -1359,22 +1410,22 @@
         <Class IRI="#acetomenaphin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_appetite"/>
+        <Class IRI="#casein_precipitation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#casein_precipitation"/>
+        <Class IRI="#eating_influenced_by_appetite"/>
     </Declaration>
     <Declaration>
         <Class IRI="#insulin_function"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#pasteurization_type"/>
+        <Class IRI="#blood_pressure"/>
     </Declaration>
     <Declaration>
         <Class IRI="#B1."/>
     </Declaration>
     <Declaration>
-        <Class IRI="#blood_pressure"/>
+        <Class IRI="#pasteurization_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#performance_regulated_eating_behavior"/>
@@ -1383,10 +1434,10 @@
         <Class IRI="#milk_lipid_form"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#oligosaccharides"/>
+        <Class IRI="#n-acetylglucosamine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#n-acetylglucosamine"/>
+        <Class IRI="#peptide_origin"/>
     </Declaration>
     <Declaration>
         <Class IRI="#beta-lactoglobulin_structure"/>
@@ -1428,16 +1479,19 @@
         <Class IRI="#Asn-Xxx-Thr/Ser"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#N-terminal_acetylation"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#environment_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#licking_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#oxytocin_activity"/>
+        <Class IRI="#eating_influenced_by_home_environment"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_home_environment"/>
+        <Class IRI="#oxytocin_activity"/>
     </Declaration>
     <Declaration>
         <Class IRI="#tryptophan"/>
@@ -1467,13 +1521,13 @@
         <Class IRI="#lactoferrin_modification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_processing_technique_type"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#whey_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#iron"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_processing_technique_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_transportation"/>
@@ -1491,19 +1545,22 @@
         <Class IRI="#chymosin_rennet_activity"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#microbial_food_source_possible_type"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#morbidity_increasing_from_infectious_disease"/>
     </Declaration>
     <Declaration>
         <Class IRI="#hindmilk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#LC-UV-Vis"/>
+        <Class IRI="#milk_peptide_composition"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glutamine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_peptide_composition"/>
+        <Class IRI="#LC-UV-Vis"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sequestration_of_iron,_lowering_growth_of_some_bacteria"/>
@@ -1521,10 +1578,10 @@
         <Class IRI="#chymosin_rennet_action"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#heavy_cream"/>
+        <Class IRI="#eating_while_defecating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_defecating_behavior"/>
+        <Class IRI="#heavy_cream"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_glycoprotein"/>
@@ -1542,19 +1599,22 @@
         <Class IRI="#Vitamin_C_deficiency_consequence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fructose"/>
+        <Class IRI="#antimicrobial_component_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#leucine"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#fructose"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#killing_pathogen"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_behavior_mode"/>
+        <Class IRI="#isoleucine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#isoleucine"/>
+        <Class IRI="#eating_behavior_mode"/>
     </Declaration>
     <Declaration>
         <Class IRI="#ating_influenced_by_craving"/>
@@ -1575,10 +1635,16 @@
         <Class IRI="#milk_frequency_feeding"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bone_construction"/>
+        <Class IRI="#microbial_food_source"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lactogenesis_stage_1_colostrum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bone_construction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#asparagine_pyroglutamination"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_embarrassment"/>
@@ -1588,6 +1654,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#ACE_inhibitory_modulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fermented_cheese"/>
     </Declaration>
     <Declaration>
         <Class IRI="#delayed_wound_healing"/>
@@ -1626,6 +1695,9 @@
         <Class IRI="#cholesterol?"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#protein_glycosylation"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#lactation_system"/>
     </Declaration>
     <Declaration>
@@ -1644,6 +1716,9 @@
         <Class IRI="#birthday_celebratory_meal"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Herpes_Simplex_Virus"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#high_temperature_short-time"/>
     </Declaration>
     <Declaration>
@@ -1653,19 +1728,16 @@
         <Class IRI="#casein_transformation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fermented_cheese_product"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#eating_influenced_by_acute_illness"/>
     </Declaration>
     <Declaration>
         <Class IRI="#plasminogen"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#B2"/>
+        <Class IRI="#eating_while_swimming_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_swimming_behavior"/>
+        <Class IRI="#B2"/>
     </Declaration>
     <Declaration>
         <Class IRI="#galactopoiesis_period"/>
@@ -1674,10 +1746,10 @@
         <Class IRI="#urokinase-type_plasminogen_activator_location"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_exercising_behavior"/>
+        <Class IRI="#milk_vitamin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_vitamin"/>
+        <Class IRI="#eating_while_exercising_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pyroglutamination"/>
@@ -1728,6 +1800,10 @@
         <Class IRI="#milk_mineral_type"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Cytomegalovirus"/>
+        <Class IRI="#virus_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#ELISA"/>
         <Class IRI="#milk_hormones_analysis_method"/>
     </SubClassOf>
@@ -1746,6 +1822,22 @@
     <SubClassOf>
         <Class IRI="#GC_type"/>
         <Class IRI="#GC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HIV"/>
+        <Class IRI="#virus_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hepatitis_B"/>
+        <Class IRI="#virus_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hepatitis_C"/>
+        <Class IRI="#virus_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Herpes_Simplex_Virus"/>
+        <Class IRI="#virus_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ICP-MS"/>
@@ -1828,6 +1920,10 @@
         <Class IRI="#N-linked"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#N-terminal_acetylation"/>
+        <Class IRI="#protein_modification"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#NMR"/>
         <Class IRI="#caffeine_analysis_method"/>
     </SubClassOf>
@@ -1854,6 +1950,10 @@
     <SubClassOf>
         <Class IRI="#O-linked_glycosylation"/>
         <Class IRI="#kappa-casein_modification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rubella"/>
+        <Class IRI="#virus_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#UV-Vis"/>
@@ -1902,6 +2002,10 @@
     <SubClassOf>
         <Class IRI="#Vitamin_K"/>
         <Class IRI="#milk_vitamin_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#West_Nile_virus"/>
+        <Class IRI="#virus_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#acetomenaphin"/>
@@ -1964,6 +2068,10 @@
         <Class IRI="#peptide_composition"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#amino_acid"/>
+        <Class IRI="#polymer_of_amino_acids"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#amino_acid_type"/>
         <Class IRI="#amino_acid"/>
     </SubClassOf>
@@ -1992,6 +2100,14 @@
         <Class IRI="#triclosan_utilization"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#antimicrobial_component"/>
+        <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#antimicrobial_component_type"/>
+        <Class IRI="#antimicrobial_component"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#apical_membrane"/>
         <Class IRI="#mammary_epithelial_cell_component"/>
     </SubClassOf>
@@ -2002,6 +2118,10 @@
     <SubClassOf>
         <Class IRI="#asparagine"/>
         <Class IRI="#amino_acid_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#asparagine_pyroglutamination"/>
+        <Class IRI="#protein_modification"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#aspartic_acid"/>
@@ -2164,10 +2284,6 @@
         <Class IRI="#meal_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#cheese"/>
-        <Class IRI="#fermented_milk_product"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#cheese_making"/>
         <Class IRI="#casein_precipitation_application"/>
     </SubClassOf>
@@ -2262,6 +2378,10 @@
     <SubClassOf>
         <Class IRI="#deamidation"/>
         <Class IRI="#post-translational_modification_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#deamidation"/>
+        <Class IRI="#protein_modification"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#delayed_wound_healing"/>
@@ -2660,7 +2780,7 @@
         <Class IRI="#consumption_behavior"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#fermented_cheese_product"/>
+        <Class IRI="#fermented_cheese"/>
         <Class IRI="#fermented_milk_product"/>
     </SubClassOf>
     <SubClassOf>
@@ -2784,6 +2904,10 @@
         <Class IRI="#post-translational_modification_type"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#glycosylation"/>
+        <Class IRI="#protein_modification"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#graduation_celebratory_meal"/>
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
@@ -2862,6 +2986,10 @@
     <SubClassOf>
         <Class IRI="#holiday_meal_behavior"/>
         <Class IRI="#meal_eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#human_lymphotropic_virus"/>
+        <Class IRI="#virus_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#hunger_oriented_eating_behavior"/>
@@ -3150,6 +3278,22 @@
     <SubClassOf>
         <Class IRI="#methionine"/>
         <Class IRI="#amino_acid_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#microbe"/>
+        <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#microbial_food_source"/>
+        <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#microbial_food_source_possible_type"/>
+        <Class IRI="#microbial_food_source"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#microbial_food_source_type"/>
+        <Class IRI="#microbial_food_source"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mid-day_snacking_behavior"/>
@@ -3448,12 +3592,12 @@
         <Class IRI="#milk_vitamin"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#monosaccharide_composition"/>
-        <Class IRI="#monosaccharides"/>
+        <Class IRI="#monosaccharide"/>
+        <Class IRI="#milk_carbohydrate_type"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#monosaccharides"/>
-        <Class IRI="#milk_carbohydrate_type"/>
+        <Class IRI="#monosaccharide_composition"/>
+        <Class IRI="#monosaccharide"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#morbidity_increasing_from_infectious_disease"/>
@@ -3496,6 +3640,10 @@
         <Class IRI="#sialic_acid_type"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#non-fermented_cheese"/>
+        <Class IRI="#milk_product_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#non-self_regulated_eating_behavior"/>
         <Class IRI="#eating_influenced_by_external_stimuli"/>
     </SubClassOf>
@@ -3504,20 +3652,28 @@
         <Class IRI="#milk_contaminant"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#oligosaccharide"/>
+        <Class IRI="#antimicrobial_component_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oligosaccharide"/>
+        <Class IRI="#microbial_food_source_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oligosaccharide"/>
+        <Class IRI="#milk_carbohydrate_type"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#oligosaccharide_composition"/>
-        <Class IRI="#oligosaccharides"/>
+        <Class IRI="#oligosaccharide"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#oligosaccharide_definition"/>
-        <Class IRI="#oligosaccharides"/>
+        <Class IRI="#oligosaccharide"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#oligosaccharide_type"/>
-        <Class IRI="#oligosaccharides"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#oligosaccharides"/>
-        <Class IRI="#milk_carbohydrate_type"/>
+        <Class IRI="#oligosaccharide"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#opioid_agonist"/>
@@ -3538,6 +3694,10 @@
     <SubClassOf>
         <Class IRI="#oxidation"/>
         <Class IRI="#post-translational_modification_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oxidation"/>
+        <Class IRI="#protein_modification"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#oxytocin"/>
@@ -3569,10 +3729,22 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#peptide"/>
+        <Class IRI="#antimicrobial_component_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peptide"/>
+        <Class IRI="#microbial_food_source_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peptide"/>
         <Class IRI="#milk_glycopeptide_composition"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#peptide_composition"/>
+        <Class IRI="#peptide"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peptide_origin"/>
         <Class IRI="#peptide"/>
     </SubClassOf>
     <SubClassOf>
@@ -3626,6 +3798,10 @@
     <SubClassOf>
         <Class IRI="#phosphorylation"/>
         <Class IRI="#post-translational_modification_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phosphorylation"/>
+        <Class IRI="#protein_modification"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#physiologically_self-regulated_eating_behavior"/>
@@ -3696,6 +3872,10 @@
         <Class IRI="#plastics"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#polymer_of_amino_acids"/>
+        <Class IRI="#protein_composition"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#post-translational_modification"/>
         <Class IRI="#milk_peptide_modifier"/>
     </SubClassOf>
@@ -3741,7 +3921,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#protein"/>
+        <Class IRI="#microbial_food_source_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#protein"/>
         <Class IRI="#milk_glycoprotein_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#protein"/>
+        <Class IRI="#peptide_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#protein_composition"/>
+        <Class IRI="#protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#protein_glycosylation"/>
+        <Class IRI="#microbial_food_source_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#protein_modification"/>
+        <Class IRI="#protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#psychological_eating_behavior"/>
@@ -3948,6 +4148,14 @@
         <Class IRI="#ethically_regulated_eating_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#virus"/>
+        <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#virus_type"/>
+        <Class IRI="#virus"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#vision"/>
         <Class IRI="#Vitamin_A_activity"/>
     </SubClassOf>
@@ -3986,6 +4194,10 @@
     <SubClassOf>
         <Class IRI="#Asn-Xxx-Thr/Ser"/>
         <Class IRI="#N-linked_type_sequence"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chickenpox/Varicella"/>
+        <Class IRI="#virus_type"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Eating_influenced_by_activity/exertion_levels"/>
@@ -4080,6 +4292,12 @@
         <Class IRI="#mammary_epithelial_cell_secretion"/>
     </DisjointClasses>
     <DisjointClasses>
+        <Class IRI="#antimicrobial_component"/>
+        <Class IRI="#microbe"/>
+        <Class IRI="#microbial_food_source"/>
+        <Class IRI="#virus"/>
+    </DisjointClasses>
+    <DisjointClasses>
         <Class IRI="#apical_membrane"/>
         <Class IRI="#basolateral_membrane"/>
     </DisjointClasses>
@@ -4129,8 +4347,8 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#lactose"/>
-        <Class IRI="#monosaccharides"/>
-        <Class IRI="#oligosaccharides"/>
+        <Class IRI="#monosaccharide"/>
+        <Class IRI="#oligosaccharide"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#milk_amino_acids_free"/>
@@ -4186,6 +4404,10 @@
     <DisjointClasses>
         <Class IRI="#milk_vitamin_analysis_method"/>
         <Class IRI="#milk_vitamin_type"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#oligosaccharide"/>
+        <Class IRI="#peptide"/>
     </DisjointClasses>
 </Ontology>
 
