@@ -7,14 +7,14 @@
     <uri id="Imports Wizard Entry" name="file:/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
     <uri id="Imports Wizard Entry" name="file:/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="/imports/envo_import.owl" uri="imports/envo_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="/imports/ro_import.owl" uri="imports/ro_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="/imports/uberon_import.owl" uri="imports/uberon_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="http://purl.obolibrary.org/obo/foodon-edit.owl" uri="imports/uc_processing.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="uc_Milk.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20" uri="uc_Milk.-old.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1462300529847" name="shadowed:http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="imports/uc_eating.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="/imports/chebi_import.owl" uri="imports/chebi_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="/imports/envo_import.owl" uri="imports/envo_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="/imports/ro_import.owl" uri="imports/ro_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="/imports/uberon_import.owl" uri="imports/uberon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="http://purl.obolibrary.org/obo/foodon-edit.owl" uri="imports/uc_processing.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="uc_Milk.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="http://www.semanticweb.org/mateolan/ontologies/2016/3/untitled-ontology-20" uri="uc_Milk.-old.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1462404330586" name="shadowed:http://www.semanticweb.org/kimi/ontologies/2016/3/untitled-ontology-11" uri="imports/uc_eating.owl"/>
     </group>
 </catalog>
