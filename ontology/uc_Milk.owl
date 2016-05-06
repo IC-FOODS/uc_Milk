@@ -363,6 +363,9 @@
         <Class IRI="#celebratory_meal_behavior"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Perissodactyla_mammal_common_name"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#MS"/>
     </Declaration>
     <Declaration>
@@ -418,9 +421,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_contempt"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Artiodactyla_mammal_commun_name"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Vitamin_A_activity"/>
@@ -501,10 +501,10 @@
         <Class IRI="#physiologically_self-regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Xenarthra_mammal"/>
+        <Class IRI="#milk_fat_globule_membrane_protein_property"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_fat_globule_membrane_protein_property"/>
+        <Class IRI="#Xenarthra_mammal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#glandular_fluid"/>
@@ -1269,6 +1269,9 @@
         <Class IRI="#goat_milk"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Artiodactyla_mammal_common_name"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#ACE_inhibitory"/>
     </Declaration>
     <Declaration>
@@ -1329,10 +1332,10 @@
         <Class IRI="#powdered_whey"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_glycopeptide_analysis_method"/>
+        <Class IRI="#clarified_butter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#clarified_butter"/>
+        <Class IRI="#milk_glycopeptide_analysis_method"/>
     </Declaration>
     <Declaration>
         <Class IRI="#vegetarian_eating_behavior"/>
@@ -1507,9 +1510,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#dining_ware"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Perissodactyla_mammal_commun_name"/>
     </Declaration>
     <Declaration>
         <Class IRI="#peptide_composition"/>
@@ -1752,13 +1752,13 @@
         <Class IRI="#immunoglobulins"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#consumption_process"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_while_running_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#consumption_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#donkey_milk"/>
@@ -2236,7 +2236,7 @@
         <Class IRI="#Laurasiatheria_mammal_order"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Artiodactyla_mammal_commun_name"/>
+        <Class IRI="#Artiodactyla_mammal_common_name"/>
         <Class IRI="#Artiodactyla_mammal"/>
     </SubClassOf>
     <SubClassOf>
@@ -2492,7 +2492,7 @@
         <Class IRI="#Laurasiatheria_mammal_order"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Perissodactyla_mammal_commun_name"/>
+        <Class IRI="#Perissodactyla_mammal_common_name"/>
         <Class IRI="#Perissodactyla_mammal"/>
     </SubClassOf>
     <SubClassOf>
@@ -3517,7 +3517,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#even-toed_ungulate_mammal"/>
-        <Class IRI="#Artiodactyla_mammal_commun_name"/>
+        <Class IRI="#Artiodactyla_mammal_common_name"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#even-toed_ungulate_mammal_animal"/>
@@ -4533,7 +4533,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#odd-toes_ungulate_mammal"/>
-        <Class IRI="#Perissodactyla_mammal_commun_name"/>
+        <Class IRI="#Perissodactyla_mammal_common_name"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#odd-toes_ungulate_mammal_animal"/>
