@@ -594,9 +594,6 @@
         <Class IRI="#mammary_myoepithelial_cell_contraction_hormone"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bear_polar__fat"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#NMR"/>
     </Declaration>
     <Declaration>
@@ -930,9 +927,6 @@
         <Class IRI="#habitat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bear_polar__mineral"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#lactose_digestion"/>
     </Declaration>
     <Declaration>
@@ -978,10 +972,10 @@
         <Class IRI="#buffalo_sugar_4.83_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#placental_hormone_for_some_species"/>
+        <Class IRI="#rat_dry_matter_31.7_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#rat_dry_matter_31.7_percent"/>
+        <Class IRI="#placental_hormone_for_some_species"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_fluidity"/>
@@ -1009,6 +1003,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#lactase_enzyme"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bear_polar_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#bi-directional_movement"/>
@@ -1276,6 +1273,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#monosaccharide"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#guinea_pig_protein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_social_environment"/>
@@ -1615,6 +1615,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#buffalo_fat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bear_polar_fat"/>
     </Declaration>
     <Declaration>
         <Class IRI="#maternal_hormone_type"/>
@@ -2058,6 +2061,9 @@
         <Class IRI="#n-acetyl_hexosamine_type"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#bear_polar_protein"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#seal_gray_mineral"/>
     </Declaration>
     <Declaration>
@@ -2382,6 +2388,9 @@
         <Class IRI="#lactoferrin_and_secretory_immunoglobulin_A_secretion_increase"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#bear_polar_mineral"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#oligosaccharide_definition"/>
     </Declaration>
     <Declaration>
@@ -2398,9 +2407,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#kangaroo_fat"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#bear_polar__sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#deer"/>
@@ -2694,9 +2700,6 @@
         <Class IRI="#sialic_acid_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bear_polar__protein"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#calcium"/>
     </Declaration>
     <Declaration>
@@ -2976,9 +2979,6 @@
         <Class IRI="#glucose_transporter_mediator_at_basal_and_Golgi_membranes"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#guinea_pig__protein"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_processing_technique"/>
     </Declaration>
     <Declaration>
@@ -3127,6 +3127,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#milk_carbohydrate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bear_polar_dry_matter"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Condensed/Evaporated_milk"/>
@@ -3379,9 +3382,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#sheep_sugar"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#bear_polar__dry_matter"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sow_sugar_4.8_percent"/>
@@ -3936,10 +3936,10 @@
         <Class IRI="#LC-UV-Vis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mare_sugar"/>
+        <Class IRI="#rat_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#rat_milk"/>
+        <Class IRI="#mare_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#B6"/>
@@ -4920,6 +4920,10 @@
         <Class IRI="#antelope_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#antelope_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#antelope_fat_1.3_percent"/>
         <Class IRI="#antelope_fat"/>
     </SubClassOf>
@@ -4940,12 +4944,20 @@
         <Class IRI="#antelope_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#antelope_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#antelope_protein_6.9_percent"/>
         <Class IRI="#antelope_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#antelope_sugar"/>
         <Class IRI="#antelope_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#antelope_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#antelope_sugar_4.0_percent"/>
@@ -5064,48 +5076,60 @@
         <Class IRI="#milk_amino_acid_transport_location"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#bear_polar__dry_matter"/>
-        <Class IRI="#bear_polar_milk"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#bear_polar__dry_matter_42.9_percent"/>
-        <Class IRI="#bear_polar__dry_matter"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#bear_polar__fat"/>
-        <Class IRI="#bear_polar_milk"/>
+        <Class IRI="#bear_polar_dry_matter"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bear_polar__fat_31.0_percent"/>
-        <Class IRI="#bear_polar__fat"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#bear_polar__mineral"/>
-        <Class IRI="#bear_polar_milk"/>
+        <Class IRI="#bear_polar_fat"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bear_polar__mineral__1.2_percent"/>
-        <Class IRI="#bear_polar__mineral"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#bear_polar__protein"/>
-        <Class IRI="#bear_polar_milk"/>
+        <Class IRI="#bear_polar_mineral"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bear_polar__protein_10.2_percent"/>
-        <Class IRI="#bear_polar__protein"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#bear_polar__sugar"/>
-        <Class IRI="#bear_polar_milk"/>
+        <Class IRI="#bear_polar_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bear_polar__sugar_0.5_percent"/>
-        <Class IRI="#bear_polar__sugar"/>
+        <Class IRI="#bear_polar_sugar"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_dry_matter"/>
+        <Class IRI="#bear_polar_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_fat"/>
+        <Class IRI="#bear_polar_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bear_polar_milk"/>
         <Class IRI="#mammalian_milk_less_common_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_mineral"/>
+        <Class IRI="#bear_polar_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_protein"/>
+        <Class IRI="#bear_polar_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_sugar"/>
+        <Class IRI="#bear_polar_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bear_polar_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#behavior_process"/>
@@ -5180,6 +5204,10 @@
         <Class IRI="#bison_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#bison_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#bison_fat_1.7_percent"/>
         <Class IRI="#bison_fat"/>
     </SubClassOf>
@@ -5200,12 +5228,20 @@
         <Class IRI="#bison_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#bison_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#bison_protein_4.8_percent"/>
         <Class IRI="#bison_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bison_sugar"/>
         <Class IRI="#bison_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bison_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bison_sugar_5.7_percent"/>
@@ -5432,6 +5468,10 @@
         <Class IRI="#cat_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#cat_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#cat_fat_10.9_percent"/>
         <Class IRI="#cat_fat"/>
     </SubClassOf>
@@ -5444,12 +5484,20 @@
         <Class IRI="#cat_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#cat_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#cat_protein_11.1_percent"/>
         <Class IRI="#cat_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cat_sugar"/>
         <Class IRI="#cat_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cat_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cat_sugar_3.4_percent"/>
@@ -5744,6 +5792,10 @@
         <Class IRI="#deer_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#deer_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#deer_fat_19.7_percent"/>
         <Class IRI="#deer_fat"/>
     </SubClassOf>
@@ -5764,12 +5816,20 @@
         <Class IRI="#deer_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#deer_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#deer_protein_10.4_percent"/>
         <Class IRI="#deer_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#deer_sugar"/>
         <Class IRI="#deer_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#deer_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#deer_sugar_2.6_percent"/>
@@ -5816,6 +5876,10 @@
         <Class IRI="#dog_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#dog_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#dog_fat_8.3_percent"/>
         <Class IRI="#dog_fat"/>
     </SubClassOf>
@@ -5836,12 +5900,20 @@
         <Class IRI="#dog_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#dog_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#dog_protein_9.5_percent"/>
         <Class IRI="#dog_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dog_sugar"/>
         <Class IRI="#dog_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dog_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dog_sugar_3.7_percent"/>
@@ -5860,6 +5932,10 @@
         <Class IRI="#dolphin_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#dolphin_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#dolphin_fat_14.1_percent"/>
         <Class IRI="#dolphin_fat"/>
     </SubClassOf>
@@ -5872,12 +5948,20 @@
         <Class IRI="#dolphin_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#dolphin_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#dolphin_protein_10.4percent"/>
         <Class IRI="#dolphin_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolphin_sugar"/>
         <Class IRI="#dolphin_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dolphin_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolphin_sugar_5.9_percent"/>
@@ -6316,6 +6400,10 @@
         <Class IRI="#elephant_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#elephant_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#elephant_fat_15.1_percent"/>
         <Class IRI="#elephant_fat"/>
     </SubClassOf>
@@ -6336,12 +6424,20 @@
         <Class IRI="#elephant_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#elephant_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#elephant_protein_4.9_percent"/>
         <Class IRI="#elephant_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#elephant_sugar"/>
         <Class IRI="#elephant_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#elephant_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#elephant_sugar_3.4_percent"/>
@@ -6780,10 +6876,6 @@
         <Class IRI="#pregnancy_hormone"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#guinea_pig__protein"/>
-        <Class IRI="#guinea_pig_milk"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#guinea_pig_dry_matter"/>
         <Class IRI="#guinea_pig_milk"/>
     </SubClassOf>
@@ -6794,6 +6886,10 @@
     <SubClassOf>
         <Class IRI="#guinea_pig_fat"/>
         <Class IRI="#guinea_pig_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#guinea_pig_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#guinea_pig_fat_3.9_percent"/>
@@ -6812,12 +6908,24 @@
         <Class IRI="#guinea_pig_mineral"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#guinea_pig_protein"/>
+        <Class IRI="#guinea_pig_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#guinea_pig_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#guinea_pig_protein_8.1_percent"/>
-        <Class IRI="#guinea_pig__protein"/>
+        <Class IRI="#guinea_pig_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#guinea_pig_sugar"/>
         <Class IRI="#guinea_pig_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#guinea_pig_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#guinea_pig_sugar_3.0_percent"/>
@@ -7088,6 +7196,10 @@
         <Class IRI="#kangaroo_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#kangaroo_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#kangaroo_fat_2.1_percent"/>
         <Class IRI="#kangaroo_fat"/>
     </SubClassOf>
@@ -7108,12 +7220,20 @@
         <Class IRI="#kangaroo_milk"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#kangaroo_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#kangaroo_protein_6.2_percent"/>
         <Class IRI="#kangaroo_protein"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#kangaroo_sugar"/>
         <Class IRI="#kangaroo_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kangaroo_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#kangaroo_sugar_trace"/>
@@ -8409,6 +8529,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#opossum_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#opossum_fat"/>
         <Class IRI="#opossum_milk"/>
     </SubClassOf>
     <SubClassOf>
@@ -8429,11 +8553,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#opossum_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#opossum_protein"/>
         <Class IRI="#opossum_milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#opossum_protein_9.2_percent"/>
         <Class IRI="#opossum_protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#opossum_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#opossum_sugar"/>
@@ -8941,6 +9073,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rabbit_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rabbit_fat"/>
         <Class IRI="#rabbit_milk"/>
     </SubClassOf>
     <SubClassOf>
@@ -8952,12 +9088,20 @@
         <Class IRI="#mammalian_milk_less_common_composition"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#rabbit_milk"/>
+        <Class IRI="#milk_sugar_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#rabbit_mineral"/>
         <Class IRI="#rabbit_milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rabbit_mineral__2.0_percent"/>
         <Class IRI="#rabbit_mineral"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rabbit_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rabbit_protein"/>
@@ -8985,6 +9129,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rat_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rat_fat"/>
         <Class IRI="#rat_milk"/>
     </SubClassOf>
     <SubClassOf>
@@ -9005,11 +9153,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rat_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rat_protein"/>
         <Class IRI="#rat_milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rat_protein_11.3_percent"/>
         <Class IRI="#rat_protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rat_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rat_sugar"/>
@@ -9133,6 +9289,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#seal_gray_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#seal_gray_fat"/>
         <Class IRI="#seal_gray_milk"/>
     </SubClassOf>
     <SubClassOf>
@@ -9144,12 +9304,20 @@
         <Class IRI="#mammalian_milk_less_common_composition"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#seal_gray_milk"/>
+        <Class IRI="#milk_sugar_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#seal_gray_mineral"/>
         <Class IRI="#seal_gray_milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#seal_gray_mineral__0.7_percent"/>
         <Class IRI="#seal_gray_mineral"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#seal_gray_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#seal_gray_protein"/>
@@ -9653,6 +9821,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#whale_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#whale_fat"/>
         <Class IRI="#whale_milk"/>
     </SubClassOf>
     <SubClassOf>
@@ -9673,11 +9845,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#whale_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#whale_protein"/>
         <Class IRI="#whale_milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#whale_protein_13.6_percent"/>
         <Class IRI="#whale_protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#whale_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#whale_sugar"/>
@@ -9777,6 +9957,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#zebu_fat"/>
+        <Class IRI="#milk_lipid_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#zebu_fat"/>
         <Class IRI="#zebu_milk"/>
     </SubClassOf>
     <SubClassOf>
@@ -9797,11 +9981,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#zebu_protein"/>
+        <Class IRI="#milk_protein_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#zebu_protein"/>
         <Class IRI="#zebu_milk"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#zebu_protein_3.9_percent"/>
         <Class IRI="#zebu_protein"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#zebu_sugar"/>
+        <Class IRI="#milk_sugar_mammalian"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#zebu_sugar"/>
@@ -10323,11 +10515,11 @@
         <Class IRI="#only_basal_plasma_membrane_of_alveolar_cell"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#bear_polar__dry_matter"/>
-        <Class IRI="#bear_polar__fat"/>
-        <Class IRI="#bear_polar__mineral"/>
-        <Class IRI="#bear_polar__protein"/>
-        <Class IRI="#bear_polar__sugar"/>
+        <Class IRI="#bear_polar_dry_matter"/>
+        <Class IRI="#bear_polar_fat"/>
+        <Class IRI="#bear_polar_mineral"/>
+        <Class IRI="#bear_polar_protein"/>
+        <Class IRI="#bear_polar_sugar"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#bi-directional_movement"/>
@@ -10564,10 +10756,10 @@
         <Class IRI="#goat_sugar"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#guinea_pig__protein"/>
         <Class IRI="#guinea_pig_dry_matter"/>
         <Class IRI="#guinea_pig_fat"/>
         <Class IRI="#guinea_pig_mineral"/>
+        <Class IRI="#guinea_pig_protein"/>
         <Class IRI="#guinea_pig_sugar"/>
     </DisjointClasses>
     <DisjointClasses>
