@@ -24,10 +24,10 @@
         <Class IRI="#storing_conditions"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#phenylalanine"/>
+        <Class IRI="#lactose_synthesis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactose_synthesis"/>
+        <Class IRI="#phenylalanine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sheep_sugar_4.8_percent"/>
@@ -75,10 +75,10 @@
         <Class IRI="#B9"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#glucose_major_transporter"/>
+        <Class IRI="#compensate_for_other_foods_consumed"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#compensate_for_other_foods_consumed"/>
+        <Class IRI="#glucose_major_transporter"/>
     </Declaration>
     <Declaration>
         <Class IRI="#antelope_sugar"/>
@@ -90,10 +90,10 @@
         <Class IRI="#antelope_fat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#purine_oxidizing_enzyme_xanthine_oxidoreductase"/>
+        <Class IRI="#sow_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sow_protein"/>
+        <Class IRI="#purine_oxidizing_enzyme_xanthine_oxidoreductase"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_peptide_modifier"/>
@@ -117,13 +117,13 @@
         <Class IRI="#destabilisation_of_casein_micelle,_casein_precipitation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#infant_calories"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#membrane_transport_pathway"/>
     </Declaration>
     <Declaration>
         <Class IRI="#reductase"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#infant_calories"/>
     </Declaration>
     <Declaration>
         <Class IRI="#butyrophilin"/>
@@ -153,10 +153,10 @@
         <Class IRI="#paracellular_pathway_time_closed"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#plasminogen_activation"/>
+        <Class IRI="#half_and_half"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#half_and_half"/>
+        <Class IRI="#plasminogen_activation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#enzyme_type"/>
@@ -183,13 +183,13 @@
         <Class IRI="#seal_gray_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#celebratory_meal_behavior"/>
+        <Class IRI="#Perissodactyla_mammal_common_name"/>
     </Declaration>
     <Declaration>
         <Class IRI="#yak_protein_5.8_g/dL"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Perissodactyla_mammal_common_name"/>
+        <Class IRI="#celebratory_meal_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#B12"/>
@@ -225,10 +225,10 @@
         <Class IRI="#triclosan"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#pregnancy_hormone"/>
+        <Class IRI="#B3_activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#B3_activity"/>
+        <Class IRI="#pregnancy_hormone"/>
     </Declaration>
     <Declaration>
         <Class IRI="#schmand"/>
@@ -261,10 +261,10 @@
         <Class IRI="#even-toed_ungulate_mammal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#antelope_mineral"/>
+        <Class IRI="#mammary_epithelial_cell_secretion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_epithelial_cell_secretion"/>
+        <Class IRI="#antelope_mineral"/>
     </Declaration>
     <Declaration>
         <Class IRI="#elastase"/>
@@ -288,6 +288,9 @@
         <Class IRI="#buffalo_mineral"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_production_environmental_factor"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#milk_freezer"/>
     </Declaration>
     <Declaration>
@@ -303,10 +306,10 @@
         <Class IRI="#milk_during_the_day"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_myoepithelial_cell_contraction_hormone"/>
+        <Class IRI="#vat_pasteurization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#vat_pasteurization"/>
+        <Class IRI="#mammary_myoepithelial_cell_contraction_hormone"/>
     </Declaration>
     <Declaration>
         <Class IRI="#NMR"/>
@@ -315,10 +318,10 @@
         <Class IRI="#Vitamin_D"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#with_mastitis"/>
+        <Class IRI="#eating_influenced_by_visual_perception"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_visual_perception"/>
+        <Class IRI="#with_mastitis"/>
     </Declaration>
     <Declaration>
         <Class IRI="#post-translational_modification_type"/>
@@ -393,6 +396,9 @@
         <Class IRI="#over-the-counter_medication_type"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#grazed_herbage"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#calcium_function"/>
     </Declaration>
     <Declaration>
@@ -414,10 +420,10 @@
         <Class IRI="#Vitamin_B"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#plastics"/>
+        <Class IRI="#milk_lipid_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_lipid_type"/>
+        <Class IRI="#plastics"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_accessibility"/>
@@ -429,13 +435,13 @@
         <Class IRI="#cow_sugar_~4.9_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#increased_expression_of_some_milk_protein_genes_and_biosynthetic_enzymes"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#reindeer_sugar_3.4_g/dL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_sensory_attribute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#increased_expression_of_some_milk_protein_genes_and_biosynthetic_enzymes"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_metabolic_rates"/>
@@ -504,9 +510,6 @@
         <Class IRI="#eating_influenced_by_media"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#food_production_biologic_factor"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#donkey_fat_0.6_g/dL"/>
     </Declaration>
     <Declaration>
@@ -516,19 +519,19 @@
         <Class IRI="#holder_pasteurization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_laughing_behavior"/>
+        <Class IRI="#eating_influenced_by_internal_stimuli"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_internal_stimuli"/>
+        <Class IRI="#eating_while_laughing_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_while_studying_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Holstein-Friesian_cow_dry_matter"/>
+        <Class IRI="#herbivorous_species"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#herbivorous_species"/>
+        <Class IRI="#Holstein-Friesian_cow_dry_matter"/>
     </Declaration>
     <Declaration>
         <Class IRI="#100ºC_(212ºF)_and_0.01_seconds"/>
@@ -537,16 +540,16 @@
         <Class IRI="#placental_hormone_for_some_species"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#rat_dry_matter_31.7_percent"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_fluidity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#guinea_pig_milk"/>
+        <Class IRI="#rat_dry_matter_31.7_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#direct_movement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#guinea_pig_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#standardization"/>
@@ -624,16 +627,16 @@
         <Class IRI="#bear_polar__fat_31.0_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#reducing_milk_fat_globules_size"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#high_mineral_concentration"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_sugar_4.1_percent"/>
+        <Class IRI="#reducing_milk_fat_globules_size"/>
     </Declaration>
     <Declaration>
         <Class IRI="#n-acetylneuraminic_acid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#goat_sugar_4.1_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_moderate_metabolic_rate"/>
@@ -672,10 +675,10 @@
         <Class IRI="#Vitamin_A_presence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Jersey_cow_mineral_0.7_percent"/>
+        <Class IRI="#almond_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#almond_milk"/>
+        <Class IRI="#Jersey_cow_mineral_0.7_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dairy_product"/>
@@ -726,10 +729,10 @@
         <Class IRI="#vanilla_flavor"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_milk"/>
+        <Class IRI="#Brown_Swiss_cow_protein_3.6_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Brown_Swiss_cow_protein_3.6_percent"/>
+        <Class IRI="#goat_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#antelope_sugar_4.0_percent"/>
@@ -753,10 +756,10 @@
         <Class IRI="#step_4_transportation_process"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#guinea_pig_protein"/>
+        <Class IRI="#eating_influenced_by_social_environment"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_social_environment"/>
+        <Class IRI="#guinea_pig_protein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_amino_acids_free"/>
@@ -792,13 +795,13 @@
         <Class IRI="#Jersey_cow_sugar"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Brown_Swiss_cow_sugar"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#cow_fat_~3.5-5.0_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#prolactin"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Brown_Swiss_cow_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Ayrshire_cow_protein_3.6_percent"/>
@@ -828,10 +831,10 @@
         <Class IRI="#histidine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#cattle"/>
+        <Class IRI="#high_concentrations_result"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#high_concentrations_result"/>
+        <Class IRI="#cattle"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pot_sealer"/>
@@ -855,19 +858,19 @@
         <Class IRI="#dining_ware"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#peptide_composition"/>
+        <Class IRI="#mechanical_food_breakdown"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mechanical_food_breakdown"/>
+        <Class IRI="#peptide_composition"/>
     </Declaration>
     <Declaration>
         <Class IRI="#zebu_dry_matter_14.7_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#triglycerides"/>
+        <Class IRI="#milk_fat_soluble_vitamin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_fat_soluble_vitamin"/>
+        <Class IRI="#triglycerides"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Jersey_cow_protein"/>
@@ -883,6 +886,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#mammary_epithelial_cell_connection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#age_at_calving"/>
     </Declaration>
     <Declaration>
         <Class IRI="#serum_cell"/>
@@ -903,10 +909,10 @@
         <Class IRI="#Laurasiatheria_mammal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_mineral_mammalian"/>
+        <Class IRI="#protease_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#protease_type"/>
+        <Class IRI="#milk_mineral_mammalian"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammalian_milk"/>
@@ -1086,10 +1092,10 @@
         <Class IRI="#llama_sodium_concentration_272_ppm"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#cheese_making"/>
+        <Class IRI="#pathway_for_transport_of_exogenous_substances"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#pathway_for_transport_of_exogenous_substances"/>
+        <Class IRI="#cheese_making"/>
     </Declaration>
     <Declaration>
         <Class IRI="#hunger_oriented_eating_behavior"/>
@@ -1152,16 +1158,16 @@
         <Class IRI="#lactation_system"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bear_polar_protein"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#n-acetyl_hexosamine_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_protein_2.9_g/dL"/>
+        <Class IRI="#bear_polar_protein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#infant_development_stage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#goat_protein_2.9_g/dL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#vacuum_sealer"/>
@@ -1245,13 +1251,13 @@
         <Class IRI="#milk_hormone_type"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#glycerol"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#scurvy"/>
     </Declaration>
     <Declaration>
         <Class IRI="#guinea_pig_fat"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#glycerol"/>
     </Declaration>
     <Declaration>
         <Class IRI="#opioid_agonist"/>
@@ -1350,6 +1356,9 @@
         <Class IRI="#Holstein-Friesian_cow_protein"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#nutrition"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#religous_meal_behavior"/>
     </Declaration>
     <Declaration>
@@ -1383,10 +1392,10 @@
         <Class IRI="#cat_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#neurological_and_cardiac_function"/>
+        <Class IRI="#iodide"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#iodide"/>
+        <Class IRI="#neurological_and_cardiac_function"/>
     </Declaration>
     <Declaration>
         <Class IRI="#deer_protein"/>
@@ -1404,19 +1413,19 @@
         <Class IRI="#N-linked_origin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#prevent_fat_globules_from_coalescing_into_large_fat_droplets"/>
+        <Class IRI="#regulate_glucose_metabolism"/>
     </Declaration>
     <Declaration>
         <Class IRI="#amino_acid_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#regulate_glucose_metabolism"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_secretory_activation_phase_old_name"/>
+        <Class IRI="#prevent_fat_globules_from_coalescing_into_large_fat_droplets"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mature_human_milk_mineral"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milk_secretory_activation_phase_old_name"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Vitamin_A_activity"/>
@@ -1428,10 +1437,10 @@
         <Class IRI="#milk_production_sociological_factor"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#iron-binding_possible_result"/>
+        <Class IRI="#Guernsey_cow_dry_matter_14.4_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Guernsey_cow_dry_matter_14.4_percent"/>
+        <Class IRI="#iron-binding_possible_result"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_fat_globule_triglyceride_core"/>
@@ -1488,10 +1497,10 @@
         <Class IRI="#human_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#kangaroo_milk"/>
+        <Class IRI="#every_24_or_48_hours"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#every_24_or_48_hours"/>
+        <Class IRI="#kangaroo_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#tank"/>
@@ -1509,10 +1518,13 @@
         <Class IRI="#mid_pregnancy_to_day_2_postpartum_period"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#glycan_linked_through_nitrogen_of_asparagine"/>
+        <Class IRI="#milk_production_management_factor"/>
     </Declaration>
     <Declaration>
         <Class IRI="#food_service_market"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#glycan_linked_through_nitrogen_of_asparagine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Afrotheria_mammal_animal"/>
@@ -1536,6 +1548,9 @@
         <Class IRI="#milk_lipid_analysis_method"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#product_age"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#milk_grade_B"/>
     </Declaration>
     <Declaration>
@@ -1545,16 +1560,16 @@
         <Class IRI="#calcium"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#psychological_eating_behavior"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#bovine_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#deer_sugar_2.6_percent"/>
+        <Class IRI="#psychological_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mature_human_milk_fat_9.25_kcal/g"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#deer_sugar_2.6_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Jersey_cow_sugar_4.9_percent"/>
@@ -1584,10 +1599,10 @@
         <Class IRI="#camel"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bison_protein"/>
+        <Class IRI="#milk_grade_A"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_grade_A"/>
+        <Class IRI="#bison_protein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#FID"/>
@@ -1605,10 +1620,10 @@
         <Class IRI="#mature_human_milk_mineral_0.2_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#high_temperature_short-time_pasteurizer"/>
+        <Class IRI="#llama_energy_content_70.0_kcal/100g"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#llama_energy_content_70.0_kcal/100g"/>
+        <Class IRI="#high_temperature_short-time_pasteurizer"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lysosome_activity"/>
@@ -1626,10 +1641,10 @@
         <Class IRI="#tank_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#seal_gray_sugar"/>
+        <Class IRI="#milk_storage_silo"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_storage_silo"/>
+        <Class IRI="#seal_gray_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cow_dry_matter_~12.5_percent"/>
@@ -1680,9 +1695,6 @@
         <Class IRI="#cow_dry_matter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#citrate_production_place"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#glycan_linked_through_oxygen_of_serine_or_threonine"/>
     </Declaration>
     <Declaration>
@@ -1692,10 +1704,16 @@
         <Class IRI="#thyroid_homone"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#citrate_production_place"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#mammary_alveolus"/>
     </Declaration>
     <Declaration>
         <Class IRI="#potassium_activity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#reindeer_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lipase"/>
@@ -1704,40 +1722,37 @@
         <Class IRI="#National_Milk_Producers_Federation_NMPF"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#reindeer_milk"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#electron_microscopy"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#milk_lipid_mammalian"/>
     </Declaration>
     <Declaration>
         <Class IRI="#transcellular_route"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#seal_gray_fat_53.2_percent"/>
+        <Class IRI="#milk_lipid_mammalian"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_processing_entity"/>
+        <Class IRI="#seal_gray_fat_53.2_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mare_protein_2.0_g/dL"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_processing_entity"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#glucose_transporter_mediator_at_basal_and_Golgi_membranes"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_process"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#promotion_celebratory_meal"/>
+        <Class IRI="#mammary_alveolar_cell_function"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammalian_milk_less_common_for_human_consumption"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_alveolar_cell_function"/>
+        <Class IRI="#promotion_celebratory_meal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#ethanol"/>
@@ -1746,16 +1761,16 @@
         <Class IRI="#glycine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#secretory_immunoglobulin_A"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#guinea_pig_dry_matter_15.8_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#heavy_metal_type"/>
+        <Class IRI="#secretory_immunoglobulin_A"/>
     </Declaration>
     <Declaration>
         <Class IRI="#tissue_growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#heavy_metal_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#chymosin_rennet"/>
@@ -1842,10 +1857,10 @@
         <Class IRI="#shorty_after_delivery"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#duct_dilatation"/>
+        <Class IRI="#camel_dry_matter_14.4_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#camel_dry_matter_14.4_percent"/>
+        <Class IRI="#duct_dilatation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#fat_content"/>
@@ -1875,19 +1890,19 @@
         <Class IRI="#butter_churn"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#milk_ejection"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#triclocarban_utilization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_ejection"/>
+        <Class IRI="#Holstein-Friesian_cow_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lysosome"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammary_alveolar_cell_property"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Holstein-Friesian_cow_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_gender"/>
@@ -1929,10 +1944,10 @@
         <Class IRI="#N-linked"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mature_milk"/>
+        <Class IRI="#double_cream"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#double_cream"/>
+        <Class IRI="#mature_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_fat_globule_membrane_enzyme"/>
@@ -1944,16 +1959,16 @@
         <Class IRI="#milk_blending_operator"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactose"/>
+        <Class IRI="#goat_fat_4.5_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#healty_growth"/>
+        <Class IRI="#lactose"/>
     </Declaration>
     <Declaration>
         <Class IRI="#zinc"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_fat_4.5_percent"/>
+        <Class IRI="#healty_growth"/>
     </Declaration>
     <Declaration>
         <Class IRI="#wedding_celebratory_meal"/>
@@ -1962,16 +1977,16 @@
         <Class IRI="#cholesterol"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#exocytotic_secretion_stockage"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#cultured_butter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#seal_gray_dry_matter_67.7_percent"/>
+        <Class IRI="#exocytotic_secretion_stockage"/>
     </Declaration>
     <Declaration>
         <Class IRI="#stromal_derived_agent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#seal_gray_dry_matter_67.7_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Hepatitis_B"/>
@@ -2034,10 +2049,10 @@
         <Class IRI="#food_product_attribute"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#stage_2_standardization"/>
+        <Class IRI="#zebu_fat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#zebu_fat"/>
+        <Class IRI="#stage_2_standardization"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_production_economical_factor"/>
@@ -2112,16 +2127,16 @@
         <Class IRI="#healty_membranes_and_skin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#llama_dry_matter_13.1_percent"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_mineral"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactogenesis_II"/>
+        <Class IRI="#llama_dry_matter_13.1_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cell_membrane_structure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactogenesis_II"/>
     </Declaration>
     <Declaration>
         <Class IRI="#density_test"/>
@@ -2142,10 +2157,10 @@
         <Class IRI="#transitionnal_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#protein_test"/>
+        <Class IRI="#eating_influenced_by_loneliness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_loneliness"/>
+        <Class IRI="#protein_test"/>
     </Declaration>
     <Declaration>
         <Class IRI="#2HexNAc,_3Hex"/>
@@ -2172,10 +2187,10 @@
         <Class IRI="#progesterone"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_glycopeptide_free"/>
+        <Class IRI="#phodpho-head_group"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#phodpho-head_group"/>
+        <Class IRI="#milk_glycopeptide_free"/>
     </Declaration>
     <Declaration>
         <Class IRI="#perscription_drugs"/>
@@ -2190,10 +2205,10 @@
         <Class IRI="#secretory_function"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_anxiety"/>
+        <Class IRI="#milk_glycoprotein_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_glycoprotein_type"/>
+        <Class IRI="#eating_influenced_by_anxiety"/>
     </Declaration>
     <Declaration>
         <Class IRI="#morning_snacking_behavior"/>
@@ -2206,6 +2221,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#health_promoting_meal_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#genetics"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milking_technique"/>
@@ -2250,16 +2268,16 @@
         <Class IRI="#performance_regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#n-acetylglucosamine"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#peptide_origin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#three_temporally_changes_in_milk_composition_during_secretory_activation"/>
+        <Class IRI="#n-acetylglucosamine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#rat_mineral"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#three_temporally_changes_in_milk_composition_during_secretory_activation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#beta-lactoglobulin_structure"/>
@@ -2277,16 +2295,16 @@
         <Class IRI="#kangaroo_dry_matter_9.5_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#donkey_mineral_0.45_percent"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#formation_&amp;_maturation_of_endosomes"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#relative_lactation_length"/>
+        <Class IRI="#donkey_mineral_0.45_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#environment_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#relative_lactation_length"/>
     </Declaration>
     <Declaration>
         <Class IRI="#oxytocin_activity"/>
@@ -2298,10 +2316,10 @@
         <Class IRI="#aseptic_filler"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#duct_dilation_result"/>
+        <Class IRI="#lactoferrin_modification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactoferrin_modification"/>
+        <Class IRI="#duct_dilation_result"/>
     </Declaration>
     <Declaration>
         <Class IRI="#whey_type"/>
@@ -2319,10 +2337,10 @@
         <Class IRI="#B6"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#heavy_cream"/>
+        <Class IRI="#dry_period"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#food_market"/>
+        <Class IRI="#heavy_cream"/>
     </Declaration>
     <Declaration>
         <Class IRI="#globular"/>
@@ -2332,6 +2350,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#glucose_transport_location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#food_market"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dairy_milker"/>
@@ -2350,6 +2371,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#aquatic_habitat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rate_of_milk_secretion"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_producing_system"/>
@@ -2388,10 +2412,10 @@
         <Class IRI="#mastitis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#xenobiotic_agents_metabolizer_type"/>
+        <Class IRI="#Herpes_Simplex_Virus"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Herpes_Simplex_Virus"/>
+        <Class IRI="#xenobiotic_agents_metabolizer_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#temperature_test"/>
@@ -2406,10 +2430,10 @@
         <Class IRI="#stage_3_homogenization"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_dry_matter_12.0_g/dL"/>
+        <Class IRI="#mammary_Golgi_apparatus"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_Golgi_apparatus"/>
+        <Class IRI="#goat_dry_matter_12.0_g/dL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_secretory_activation_phase_modification"/>
@@ -2445,10 +2469,10 @@
         <Class IRI="#mould"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#food_producing_entity"/>
+        <Class IRI="#protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#protein"/>
+        <Class IRI="#food_producing_entity"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammary_secretory_vesicle"/>
@@ -2461,9 +2485,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#rural_smallholder_dairying"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#age"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_physical_property"/>
@@ -2482,6 +2503,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#buffalo_fat_10.4_percent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milking_interval"/>
     </Declaration>
     <Declaration>
         <Class IRI="#crop_milk_type"/>
@@ -2547,10 +2571,10 @@
         <Class IRI="#Holstein-Friesian_cow_fat_3.5_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#camel_dry_matter_15.2_g/dL"/>
+        <Class IRI="#opossum_protein_9.2_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#opossum_protein_9.2_percent"/>
+        <Class IRI="#camel_dry_matter_15.2_g/dL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cow_mineral_~0.7_percent"/>
@@ -2568,10 +2592,10 @@
         <Class IRI="#beta-casein_modification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#HIV"/>
+        <Class IRI="#Guernsey_cow_sugar"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Guernsey_cow_sugar"/>
+        <Class IRI="#HIV"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_frustration"/>
@@ -2610,16 +2634,16 @@
         <Class IRI="#N-linked_composition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_peer_pressure"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#machine_milking"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#heavy_metals"/>
+        <Class IRI="#eating_influenced_by_peer_pressure"/>
     </Declaration>
     <Declaration>
         <Class IRI="#during_digestion;_precipitation_due_to_rennin,pH"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#heavy_metals"/>
     </Declaration>
     <Declaration>
         <Class IRI="#fatty_acid_tail"/>
@@ -2670,25 +2694,28 @@
         <Class IRI="#binding_to_heme_for_oxygen_transport"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#packaging"/>
+        <Class IRI="#breed"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Ayrshire_cow_dry_matter"/>
+        <Class IRI="#packaging"/>
     </Declaration>
     <Declaration>
         <Class IRI="#osmotic_influx_of_water"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#deer_milk"/>
+        <Class IRI="#Ayrshire_cow_dry_matter"/>
     </Declaration>
     <Declaration>
         <Class IRI="#stage_4_involution"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_culture"/>
+        <Class IRI="#deer_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dromedary_milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eating_influenced_by_culture"/>
     </Declaration>
     <Declaration>
         <Class IRI="#selenium"/>
@@ -2707,6 +2734,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#food_processing_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#residual_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_influenced_by_contempt"/>
@@ -2766,10 +2796,10 @@
         <Class IRI="#Jersey_cow_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_fear"/>
+        <Class IRI="#guinea_pig_mineral__0.82_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#guinea_pig_mineral__0.82_percent"/>
+        <Class IRI="#eating_influenced_by_fear"/>
     </Declaration>
     <Declaration>
         <Class IRI="#meal_eating_behavior"/>
@@ -2808,19 +2838,19 @@
         <Class IRI="#peptide"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#scurvy_symptom"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#GLUT1"/>
     </Declaration>
     <Declaration>
         <Class IRI="#massive_and_concerted_increases_in_milk_volume_and_the_rates_of_synthesis_and/or_secretion_of_almost_all_mature_milk_components"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#scurvy_symptom"/>
+        <Class IRI="#basal_ion_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#thyroid-stimulating_hormone"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#basal_ion_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#N-linked_glycosylation"/>
@@ -2856,19 +2886,19 @@
         <Class IRI="#mare_dry_matter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#llama_sugar_6.5_percent"/>
+        <Class IRI="#plant-based_eating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#plant-based_eating_behavior"/>
+        <Class IRI="#llama_sugar_6.5_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#evening_milking"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#dog_sugar"/>
+        <Class IRI="#pregnancy_stage_modification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#pregnancy_stage_modification"/>
+        <Class IRI="#dog_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#non_placental_mammal_clade"/>
@@ -2895,10 +2925,10 @@
         <Class IRI="#decreased_dilution_by_water"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milking_time"/>
+        <Class IRI="#mammalian_milk_composition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammalian_milk_composition"/>
+        <Class IRI="#milking_time"/>
     </Declaration>
     <Declaration>
         <Class IRI="#separator"/>
@@ -2955,10 +2985,10 @@
         <Class IRI="#milk_ion_transport"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bison_dry_matter_13.2_percent"/>
+        <Class IRI="#friend_social_gathering_meal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#friend_social_gathering_meal"/>
+        <Class IRI="#bison_dry_matter_13.2_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#virus"/>
@@ -2973,19 +3003,19 @@
         <Class IRI="#whey_butter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#convert_carbohydrate_into_glucose"/>
+        <Class IRI="#mature_human_milk_iron_concentration_0.2-0.8_mg/L"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mature_human_milk_iron_concentration_0.2-0.8_mg/L"/>
+        <Class IRI="#convert_carbohydrate_into_glucose"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pig_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#paracellular_pathway_time"/>
+        <Class IRI="#Golgi_lumen"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Golgi_lumen"/>
+        <Class IRI="#paracellular_pathway_time"/>
     </Declaration>
     <Declaration>
         <Class IRI="#colostrum_characteristic"/>
@@ -3042,13 +3072,13 @@
         <Class IRI="#seal_gray_protein_11.2_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sow_mineral_0.6_percent"/>
+        <Class IRI="#sheep_dry_matter_18.2_g/dL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#stage_2_lactogenesis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sheep_dry_matter_18.2_g/dL"/>
+        <Class IRI="#sow_mineral_0.6_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Jersey_cow_dry_matter"/>
@@ -3117,10 +3147,10 @@
         <Class IRI="#higher_heat_shorter_time_HHST"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#monkey"/>
+        <Class IRI="#seal_gray_dry_matter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#seal_gray_dry_matter"/>
+        <Class IRI="#monkey"/>
     </Declaration>
     <Declaration>
         <Class IRI="#yogurt"/>
@@ -3153,10 +3183,10 @@
         <Class IRI="#milk_secretory_activation_phase_milk_composition_change"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactogenesis_stage_2_mature_milk"/>
+        <Class IRI="#eating_while_biking_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_biking_behavior"/>
+        <Class IRI="#lactogenesis_stage_2_mature_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sealer"/>
@@ -3165,16 +3195,16 @@
         <Class IRI="#bison_fat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fluid_balance"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#mature_human_milk_sugar_6.9-7.2_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammalian_classification"/>
+        <Class IRI="#fluid_balance"/>
     </Declaration>
     <Declaration>
         <Class IRI="#special_stainless_steel_bodies_purpose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mammalian_classification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#valine"/>
@@ -3201,13 +3231,13 @@
         <Class IRI="#milk_lipid_property"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#lactose_synthesis_substrat"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Boreoeutheria_mammal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lobular-alveolar_structures_increasing"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lactose_synthesis_substrat"/>
     </Declaration>
     <Declaration>
         <Class IRI="#afternoon_milk"/>
@@ -3219,13 +3249,13 @@
         <Class IRI="#powdered_whey"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#vegetarian_eating_behavior"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#camel_fat_4.3_g/dL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#rice_milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#vegetarian_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#polymer_of_amino_acids"/>
@@ -3255,13 +3285,13 @@
         <Class IRI="#elk_sugar"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#rat_fat_14.8_percent"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#GLU1_location"/>
     </Declaration>
     <Declaration>
         <Class IRI="#maturation_of_secretory_mechanisms"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#rat_fat_14.8_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#casein_type"/>
@@ -3291,10 +3321,13 @@
         <Class IRI="#additive"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#free_in_whey"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#dairy_based_milk_substitute_product"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#free_in_whey"/>
+        <Class IRI="#concentrate"/>
     </Declaration>
     <Declaration>
         <Class IRI="#adherens-_and_tight-junctional_element_function"/>
@@ -3315,10 +3348,13 @@
         <Class IRI="#sheep_protein_5.5_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#inhibition_of_direct_paracellular_exchange"/>
+        <Class IRI="#number_of_newborns"/>
     </Declaration>
     <Declaration>
         <Class IRI="#homogenizer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#inhibition_of_direct_paracellular_exchange"/>
     </Declaration>
     <Declaration>
         <Class IRI="#prolactin_activity"/>
@@ -3336,10 +3372,10 @@
         <Class IRI="#homogenization_purpose"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lipid_secretion"/>
+        <Class IRI="#carbohydrate_metabolism"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#carbohydrate_metabolism"/>
+        <Class IRI="#lipid_secretion"/>
     </Declaration>
     <Declaration>
         <Class IRI="#alanine"/>
@@ -3348,10 +3384,10 @@
         <Class IRI="#milk_production_operator"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_secretory_activation_phase_characterization"/>
+        <Class IRI="#sheep_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sheep_protein"/>
+        <Class IRI="#milk_secretory_activation_phase_characterization"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lactose_concentration_increase"/>
@@ -3376,6 +3412,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#rabbit_milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#food_production_economical_factor"/>
     </Declaration>
     <Declaration>
         <Class IRI="#endoplasmic_reticulum"/>
@@ -3459,10 +3498,10 @@
         <Class IRI="#rabbit_dry_matter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#membrane_transport_type"/>
+        <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
+        <Class IRI="#membrane_transport_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#chewing_behavior"/>
@@ -3480,19 +3519,19 @@
         <Class IRI="#dromedary_sugar"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#release_energy_from_food"/>
+        <Class IRI="#milk_substitute_product"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_substitute_product"/>
+        <Class IRI="#release_energy_from_food"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pasteurization_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_amino_acid_transport_mechanism"/>
+        <Class IRI="#sow_dry_matter_19.9_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sow_dry_matter_19.9_percent"/>
+        <Class IRI="#milk_amino_acid_transport_mechanism"/>
     </Declaration>
     <Declaration>
         <Class IRI="#llama_sulfur_concentration_425_ppm"/>
@@ -3522,10 +3561,10 @@
         <Class IRI="#Primate_mammal_animal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#energy_metabolism"/>
+        <Class IRI="#phosphate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#phosphate"/>
+        <Class IRI="#energy_metabolism"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Asn-Xxx-Thr/Ser"/>
@@ -3570,19 +3609,19 @@
         <Class IRI="#milk_ejection_place"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#hydrolase"/>
+        <Class IRI="#chymosin_rennet_activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#chymosin_rennet_activity"/>
+        <Class IRI="#hydrolase"/>
     </Declaration>
     <Declaration>
         <Class IRI="#strawberry_flavor"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#glutamine"/>
+        <Class IRI="#milk_peptide_composition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_peptide_composition"/>
+        <Class IRI="#glutamine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#89ºC_(191ºF)_and_1.0_second"/>
@@ -3597,10 +3636,10 @@
         <Class IRI="#free_fatty_acids"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#energy_production"/>
+        <Class IRI="#raw_cream_butter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#raw_cream_butter"/>
+        <Class IRI="#energy_production"/>
     </Declaration>
     <Declaration>
         <Class IRI="#chymosin_rennet_action"/>
@@ -3627,13 +3666,13 @@
         <Class IRI="#Vitamin_C_deficiency_consequence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#estrogen"/>
+        <Class IRI="#fortified_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cat_fat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fortified_milk"/>
+        <Class IRI="#estrogen"/>
     </Declaration>
     <Declaration>
         <Class IRI="#fructose"/>
@@ -3813,10 +3852,10 @@
         <Class IRI="#Cytomegalovirus"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#post-translational_modification"/>
+        <Class IRI="#batch_freezer"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#batch_freezer"/>
+        <Class IRI="#post-translational_modification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cheese_press"/>
@@ -3829,6 +3868,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#tight-junctions_maintenance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#food_production_biological_factor"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammalian_milk_less_common_composition"/>
@@ -3846,10 +3888,10 @@
         <Class IRI="#National_Ice_Cream_Mix_Association_NICMA"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sow_milk"/>
+        <Class IRI="#milk_tanker"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_tanker"/>
+        <Class IRI="#sow_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#storing_agitation"/>
@@ -3858,10 +3900,10 @@
         <Class IRI="#Carnivora_mammal_animal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mature_human_milk_phosphorus_concentration_13-16_mg/100mL"/>
+        <Class IRI="#goat_sugar"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_sugar"/>
+        <Class IRI="#mature_human_milk_phosphorus_concentration_13-16_mg/100mL"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mammary_ductal_epithelial_cell"/>
@@ -3918,6 +3960,9 @@
         <Class IRI="#mature_human_milk_protein_5.65_kcal/g"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#conserved_forage"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#donkey_sugar_6.1_g/dL"/>
     </Declaration>
     <Declaration>
@@ -3939,19 +3984,19 @@
         <Class IRI="#sodium_dependent_glucose_transporter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sow_mineral"/>
+        <Class IRI="#serine"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#serine"/>
+        <Class IRI="#sow_mineral"/>
     </Declaration>
     <Declaration>
         <Class IRI="#deer"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#cow_energy_content_85_kcal/100g"/>
+        <Class IRI="#mare_sugar_6.1_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mare_sugar_6.1_percent"/>
+        <Class IRI="#cow_energy_content_85_kcal/100g"/>
     </Declaration>
     <Declaration>
         <Class IRI="#bear_polar_milk"/>
@@ -3960,13 +4005,13 @@
         <Class IRI="#Brown_Swiss_cow_mineral"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#step_3_storing_process"/>
+        <Class IRI="#mammary_alveolar_cell_cellular_property"/>
     </Declaration>
     <Declaration>
         <Class IRI="#protein_metabolism"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mammary_alveolar_cell_cellular_property"/>
+        <Class IRI="#step_3_storing_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#proline"/>
@@ -3999,10 +4044,10 @@
         <Class IRI="#dairy_market"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#elk_protein"/>
+        <Class IRI="#kangaroo_protein_6.2_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#kangaroo_protein_6.2_percent"/>
+        <Class IRI="#elk_protein"/>
     </Declaration>
     <Declaration>
         <Class IRI="#only_basal_plasma_membrane_of_alveolar_cell"/>
@@ -4032,16 +4077,16 @@
         <Class IRI="#physiologically_self-regulated_eating_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#nerve_function"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#step_6_processing_process"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactose_synthesis_location"/>
+        <Class IRI="#nerve_function"/>
     </Declaration>
     <Declaration>
         <Class IRI="#transcellular_route_function"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lactose_synthesis_location"/>
     </Declaration>
     <Declaration>
         <Class IRI="#camel_protein"/>
@@ -4074,10 +4119,10 @@
         <Class IRI="#step_5_lab_testing_process"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fermentation"/>
+        <Class IRI="#whale_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#whale_protein"/>
+        <Class IRI="#fermentation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#prolactin-inhibiting_factor"/>
@@ -4086,10 +4131,10 @@
         <Class IRI="#condensed_cream"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#step_8_selling_process"/>
+        <Class IRI="#bison_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bison_milk"/>
+        <Class IRI="#step_8_selling_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dairy_heavy_equipment_operator"/>
@@ -4113,16 +4158,19 @@
         <Class IRI="#eating_while_yelling_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#paracellular_pathway_movement_type"/>
+        <Class IRI="#dairy_substitute_product"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#dairy_substitute_product"/>
+        <Class IRI="#paracellular_pathway_movement_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#kangaroo_dry_matter"/>
     </Declaration>
     <Declaration>
         <Class IRI="#N-linked_type_sequence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#season/month_of_calving"/>
     </Declaration>
     <Declaration>
         <Class IRI="#whale_mineral__1.6_percent"/>
@@ -4194,10 +4242,10 @@
         <Class IRI="#chymosin_rennet_production"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#whether_a_species_is_adapted_to_arid_conditions"/>
+        <Class IRI="#growth_development"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#growth_development"/>
+        <Class IRI="#whether_a_species_is_adapted_to_arid_conditions"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mare_dry_matter_10.5_g/dL"/>
@@ -4212,10 +4260,10 @@
         <Class IRI="#food_product"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#goat_fat"/>
+        <Class IRI="#bison_dry_matter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bison_dry_matter"/>
+        <Class IRI="#goat_fat"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dog_dry_matter_20.7_percent"/>
@@ -4231,6 +4279,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#vitamin_fortification_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#milking_frequency"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mare_mineral_0.51_percent"/>
@@ -4308,6 +4359,9 @@
         <Class IRI="#basal_membrane_of_alveolar_cell"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#ambient_temperature_and_humidity"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#pyridoxine"/>
     </Declaration>
     <Declaration>
@@ -4329,10 +4383,10 @@
         <Class IRI="#goat_energy_content"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#donkey_sugar"/>
+        <Class IRI="#stage_1_separate_cream_from_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#stage_1_separate_cream_from_milk"/>
+        <Class IRI="#donkey_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#kappa-casein_modification"/>
@@ -4383,10 +4437,10 @@
         <Class IRI="#dog_dry_matter"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#pasteurization_purpose"/>
+        <Class IRI="#reindeer_fat_22.5_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#reindeer_fat_22.5_percent"/>
+        <Class IRI="#pasteurization_purpose"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_carbohydrate"/>
@@ -4416,13 +4470,13 @@
         <Class IRI="#dolphin_fat_14.1_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#blood_clotting"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#skimmed_milk"/>
     </Declaration>
     <Declaration>
         <Class IRI="#paracellular_pathway_time_open"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#blood_clotting"/>
     </Declaration>
     <Declaration>
         <Class IRI="#formation_&amp;_maturation_of_endosomes_sorting"/>
@@ -4431,10 +4485,10 @@
         <Class IRI="#rabbit_mineral"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#from_lactose_synthase"/>
+        <Class IRI="#regulate_body&apos;s_rate_of_metabolism"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#regulate_body&apos;s_rate_of_metabolism"/>
+        <Class IRI="#from_lactose_synthase"/>
     </Declaration>
     <Declaration>
         <Class IRI="#oxytocin"/>
@@ -4533,10 +4587,10 @@
         <Class IRI="#koumiss"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_protein_type"/>
+        <Class IRI="#B12_activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#B12_activity"/>
+        <Class IRI="#milk_protein_type"/>
     </Declaration>
     <Declaration>
         <Class IRI="#activation_of_cancer_chemotherapeutic"/>
@@ -4545,10 +4599,10 @@
         <Class IRI="#infant_lipid_digestion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#digestive_process"/>
+        <Class IRI="#Chickenpox/Varicella"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Chickenpox/Varicella"/>
+        <Class IRI="#digestive_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#eating_while_crying_behavior"/>
@@ -4599,6 +4653,9 @@
         <Class IRI="#stage_2_remixing_cream_with_milk_to_provide_desired_fat_content"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#body_weight_at_calving"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#mercury"/>
     </Declaration>
     <Declaration>
@@ -4635,10 +4692,10 @@
         <Class IRI="#higher_activity_in_mastitis"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Cetacea_mammal"/>
+        <Class IRI="#xanthine_dehydrogenase"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#xanthine_dehydrogenase"/>
+        <Class IRI="#Cetacea_mammal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_fat_globule_composition"/>
@@ -4686,19 +4743,19 @@
         <Class IRI="#zebu_fat_4.9_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#72ºC_(161ºF)_and_15_seconds"/>
+        <Class IRI="#elephant"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#elephant"/>
+        <Class IRI="#72ºC_(161ºF)_and_15_seconds"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_protein_mammalian"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#batch_pasteurizer"/>
+        <Class IRI="#protein_modification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#protein_modification"/>
+        <Class IRI="#batch_pasteurizer"/>
     </Declaration>
     <Declaration>
         <Class IRI="#yak_fat"/>
@@ -4710,19 +4767,19 @@
         <Class IRI="#paracellular_exchange_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#zebu_sugar"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#cow_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#pescaterian_eating_behavior"/>
+        <Class IRI="#zebu_sugar"/>
     </Declaration>
     <Declaration>
         <Class IRI="#bone_construction_and_maintenance"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dromedary_protein_3.6_g/dL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pescaterian_eating_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#religiously_regulated_eating_behavior"/>
@@ -4749,16 +4806,16 @@
         <Class IRI="#purine_oxidizing_enzyme_xanthine_oxidoreductase_activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_while_running_behavior"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#consumption_process"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#sow_protein_5.8_percent"/>
+        <Class IRI="#eating_while_running_behavior"/>
     </Declaration>
     <Declaration>
         <Class IRI="#food"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sow_protein_5.8_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#basal_membrane"/>
@@ -4770,10 +4827,10 @@
         <Class IRI="#dog_protein_9.5_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_appetite"/>
+        <Class IRI="#casein_precipitation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#casein_precipitation"/>
+        <Class IRI="#eating_influenced_by_appetite"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sow_fat"/>
@@ -4812,28 +4869,25 @@
         <Class IRI="#cattle_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#food_production_economic_factor"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#zebu_mineral"/>
     </Declaration>
     <Declaration>
         <Class IRI="#guinea_pig_protein_8.1_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#casein_micelle_composition"/>
+        <Class IRI="#delipidation,_skimming"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#delipidation,_skimming"/>
+        <Class IRI="#casein_micelle_composition"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mannose"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fatty_acid_synthesis_in_non-ruminants"/>
+        <Class IRI="#marsupial"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#marsupial"/>
+        <Class IRI="#fatty_acid_synthesis_in_non-ruminants"/>
     </Declaration>
     <Declaration>
         <Class IRI="#camel_protein_3.7_percent"/>
@@ -4851,10 +4905,10 @@
         <Class IRI="#tarag"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#lactogenesis_I"/>
+        <Class IRI="#breast_milk"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#breast_milk"/>
+        <Class IRI="#lactogenesis_I"/>
     </Declaration>
     <Declaration>
         <Class IRI="#LC"/>
@@ -4869,16 +4923,16 @@
         <Class IRI="#kangaroo_mineral__1.2_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#n-acetyl_hexosamine"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#reindeer_dry_matter_36.7_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#275-302°F_(135-150°C)_and_4-15_seconds"/>
+        <Class IRI="#n-acetyl_hexosamine"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lipoprotein_lipase"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#275-302°F_(135-150°C)_and_4-15_seconds"/>
     </Declaration>
     <Declaration>
         <Class IRI="#transcellular_route_type"/>
@@ -4899,16 +4953,16 @@
         <Class IRI="#zebu_protein"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#dolphin_fat"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#lactoferrin_origin"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#mare_fat_1.6_percent"/>
+        <Class IRI="#dolphin_fat"/>
     </Declaration>
     <Declaration>
         <Class IRI="#infection_fighting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mare_fat_1.6_percent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#isoleucine"/>
@@ -4938,16 +4992,19 @@
         <Class IRI="#lactogenesis_stage_1_colostrum"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#stage_4_further_processing"/>
+        <Class IRI="#eating_influenced_by_embarrassment"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#eating_influenced_by_embarrassment"/>
+        <Class IRI="#stage_4_further_processing"/>
     </Declaration>
     <Declaration>
         <Class IRI="#fermented_cheese"/>
     </Declaration>
     <Declaration>
         <Class IRI="#O-linked_core_structure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#parity"/>
     </Declaration>
     <Declaration>
         <Class IRI="#rabbit_protein"/>
@@ -4962,10 +5019,10 @@
         <Class IRI="#comsumed_diet_type"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#cow_energy_content"/>
+        <Class IRI="#GLUT1_transporter_mechanism"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#GLUT1_transporter_mechanism"/>
+        <Class IRI="#cow_energy_content"/>
     </Declaration>
     <Declaration>
         <Class IRI="#buffalo_protein_5.9_percent"/>
@@ -4986,10 +5043,10 @@
         <Class IRI="#elephant_fat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_processing_equipment"/>
+        <Class IRI="#milk_flow"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#milk_flow"/>
+        <Class IRI="#milk_processing_equipment"/>
     </Declaration>
     <Declaration>
         <Class IRI="#exocytotic_secretion_transport"/>
@@ -5757,8 +5814,8 @@
         <Class IRI="#milk_during_the_day"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#age"/>
-        <Class IRI="#milk_product_attribute"/>
+        <Class IRI="#age_at_calving"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#agricultrual_feast_meals"/>
@@ -5795,6 +5852,10 @@
     <SubClassOf>
         <Class IRI="#alveolar_survival"/>
         <Class IRI="#prolactin_activity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ambient_temperature_and_humidity"/>
+        <Class IRI="#milk_production_environmental_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#amino_acid"/>
@@ -6205,6 +6266,10 @@
         <Class IRI="#ACE_inhibitory_modulation"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#body_weight_at_calving"/>
+        <Class IRI="#milk_production_factor"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#bone_construction_and_maintenance"/>
         <Class IRI="#calcium_function"/>
     </SubClassOf>
@@ -6239,6 +6304,10 @@
     <SubClassOf>
         <Class IRI="#breastfeeding_stage"/>
         <Class IRI="#infant_development_stage"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#breed"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#buffalo_dry_matter"/>
@@ -6689,6 +6758,10 @@
         <Class IRI="#consumed_diet"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#concentrate"/>
+        <Class IRI="#nutrition"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#condensed_cream"/>
         <Class IRI="#pasteurized_cream"/>
     </SubClassOf>
@@ -6699,6 +6772,10 @@
     <SubClassOf>
         <Class IRI="#condensed_skimmed_milk"/>
         <Class IRI="#liquid_milk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#conserved_forage"/>
+        <Class IRI="#nutrition"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#consumed_diet"/>
@@ -6886,7 +6963,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dairy_machine_operator"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dairy_market"/>
@@ -6894,7 +6971,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dairy_milker"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dairy_processing_equipment_operations_supervisor"/>
@@ -7263,6 +7340,10 @@
     <SubClassOf>
         <Class IRI="#dromedary_sugar"/>
         <Class IRI="#milk_sugar_mammalian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dry_period"/>
+        <Class IRI="#milk_production_management_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#duct_dilatation"/>
@@ -7957,11 +8038,11 @@
         <Class IRI="#food_product"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#food_production_biologic_factor"/>
+        <Class IRI="#food_production_biological_factor"/>
         <Class IRI="#food_production_factor"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#food_production_economic_factor"/>
+        <Class IRI="#food_production_economical_factor"/>
         <Class IRI="#food_production_factor"/>
     </SubClassOf>
     <SubClassOf>
@@ -8047,6 +8128,10 @@
     <SubClassOf>
         <Class IRI="#galactose"/>
         <Class IRI="#monosaccharide_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#genetics"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ghee"/>
@@ -8221,8 +8306,16 @@
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#grazed_herbage"/>
+        <Class IRI="#nutrition"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#growth_development"/>
         <Class IRI="#zinc_function"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#growth_hormone"/>
+        <Class IRI="#milk_production_management_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#growth_hormone"/>
@@ -9298,7 +9391,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#maternal_hormone"/>
-        <Class IRI="#milk_production_biological_factor"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#maternal_hormone_type"/>
@@ -9506,7 +9599,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_composition"/>
-        <Class IRI="#milk_production_biological_factor"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_composition_influence"/>
@@ -9722,7 +9815,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_marketing_manager"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_microbiological_and_virological_factors_and_functions"/>
@@ -9730,7 +9823,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_microbiologist"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_mineral"/>
@@ -9849,8 +9942,16 @@
         <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#milk_production_environmental_factor"/>
+        <Class IRI="#milk_production_factor"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#milk_production_factor"/>
         <Class IRI="#milk_production"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milk_production_management_factor"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_production_operator"/>
@@ -9910,7 +10011,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_quality_lab_technician"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_removal"/>
@@ -9982,7 +10083,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_tanker_driver"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_vitamin"/>
@@ -10006,11 +10107,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milk_worker"/>
-        <Class IRI="#milk_processing_operator"/>
+        <Class IRI="#milk_producing_operator"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milkfat_test"/>
         <Class IRI="#step_5_lab_testing_process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milking_frequency"/>
+        <Class IRI="#milk_production_management_factor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#milking_interval"/>
+        <Class IRI="#milk_production_management_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#milking_machine"/>
@@ -10195,6 +10304,18 @@
     <SubClassOf>
         <Class IRI="#normal_cell_division"/>
         <Class IRI="#B12_activity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#number_of_newborns"/>
+        <Class IRI="#milk_production_factor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#nutrition"/>
+        <Class IRI="#milk_production_environmental_factor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#nutrition"/>
+        <Class IRI="#milk_production_management_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#odd-toes_ungulate_mammal"/>
@@ -10411,6 +10532,10 @@
     <SubClassOf>
         <Class IRI="#paracellular_route"/>
         <Class IRI="#milk_biological_transport_and_secretion_pathways"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#parity"/>
+        <Class IRI="#milk_production_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#part-skim_condensed_milk"/>
@@ -10753,6 +10878,10 @@
         <Class IRI="#step_6_processing_process"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#product_age"/>
+        <Class IRI="#milk_product_attribute"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#progesterone"/>
         <Class IRI="#lobular-alveolar_structures_hormone_type"/>
     </SubClassOf>
@@ -10997,6 +11126,10 @@
         <Class IRI="#rat_sugar"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#rate_of_milk_secretion"/>
+        <Class IRI="#milk_production_management_factor"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#raw_cream_butter"/>
         <Class IRI="#butter_product"/>
     </SubClassOf>
@@ -11111,6 +11244,10 @@
     <SubClassOf>
         <Class IRI="#religous_meal_behavior"/>
         <Class IRI="#meal_eating_behavior"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#residual_milk"/>
+        <Class IRI="#milk_production_management_factor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#retionol_in_human_milk"/>
@@ -12465,6 +12602,10 @@
         <Class IRI="#reindeer_sugar"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#season/month_of_calving"/>
+        <Class IRI="#milk_production_environmental_factor"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#sequestration_of_iron,_lowering_growth_of_some_bacteria"/>
         <Class IRI="#iron-binding_possible_result"/>
     </SubClassOf>
@@ -12639,9 +12780,9 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#additive"/>
-        <Class IRI="#age"/>
         <Class IRI="#coagulation"/>
         <Class IRI="#farming_method"/>
+        <Class IRI="#product_age"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#adiponectin"/>
@@ -12662,6 +12803,10 @@
         <Class IRI="#alveolar_survival"/>
         <Class IRI="#milk_protein_and_lactose_synthesis"/>
         <Class IRI="#tight-junctions_maintenance"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#ambient_temperature_and_humidity"/>
+        <Class IRI="#season/month_of_calving"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#antelope_dry_matter"/>
@@ -12947,6 +13092,14 @@
         <Class IRI="#dromedary_sugar"/>
     </DisjointClasses>
     <DisjointClasses>
+        <Class IRI="#dry_period"/>
+        <Class IRI="#milking_frequency"/>
+        <Class IRI="#milking_interval"/>
+        <Class IRI="#nutrition"/>
+        <Class IRI="#rate_of_milk_secretion"/>
+        <Class IRI="#residual_milk"/>
+    </DisjointClasses>
+    <DisjointClasses>
         <Class IRI="#ductal_and_alveolar_epithelial_cells_profiferation"/>
         <Class IRI="#fat_pad_loss"/>
         <Class IRI="#lobular-alveolar_structures_increasing"/>
@@ -12996,8 +13149,8 @@
         <Class IRI="#water_content"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#food_production_biologic_factor"/>
-        <Class IRI="#food_production_economic_factor"/>
+        <Class IRI="#food_production_biological_factor"/>
+        <Class IRI="#food_production_economical_factor"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#food_production_environmental_factor"/>
