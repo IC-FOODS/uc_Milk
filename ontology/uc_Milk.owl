@@ -108,9 +108,6 @@
         <Class IRI="#milk_taste"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#bulk_milk_cell_count"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#environment"/>
     </Declaration>
     <Declaration>
@@ -420,6 +417,9 @@
         <Class IRI="#over-the-counter_medication_type"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#enzymatical_process"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#calcium_function"/>
     </Declaration>
     <Declaration>
@@ -663,9 +663,6 @@
         <Class IRI="#bear_polar__fat_31.0_percent"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#fermenting"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#milk_production_biological_process"/>
     </Declaration>
     <Declaration>
@@ -685,9 +682,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#mammary_alveolar_cell_secretion"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#separation_types"/>
     </Declaration>
     <Declaration>
         <Class IRI="#correct_blood_clotting"/>
@@ -769,6 +763,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#giraffe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chemical_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milk_production_technological_factor"/>
@@ -907,6 +904,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#milk_lipid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#acidification"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dining_ware"/>
@@ -1065,6 +1065,9 @@
         <Class IRI="#correct_functioning_of_the_heart"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#biological_processing_process"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#donkey_milk"/>
     </Declaration>
     <Declaration>
@@ -1170,6 +1173,9 @@
         <Class IRI="#llama_sodium_concentration_272_ppm"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#mass_transfer_processing_process"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#cheese_making"/>
     </Declaration>
     <Declaration>
@@ -1266,9 +1272,6 @@
         <Class IRI="#apical_recycling_compartment"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#proprietary_dairy_companies"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#dolphin_milk"/>
     </Declaration>
     <Declaration>
@@ -1318,6 +1321,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#ICP-MS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cream_separation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#mare_fat_1.4_g/dL"/>
@@ -1587,9 +1593,6 @@
         <Class IRI="#sheep_protein_4.1_g/dL"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ice_cream_processing_process"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#proteomic_analysis_(MS)"/>
     </Declaration>
     <Declaration>
@@ -1615,9 +1618,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#yak_sugar"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#cheese_processing_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#elephant_protein"/>
@@ -1666,9 +1666,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#food_service_market"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#wet_blending_spray_drying"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Afrotheria_mammal_animal"/>
@@ -1750,6 +1747,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#FID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#proprietary_dairy_company"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cheese_curd"/>
@@ -2091,9 +2091,6 @@
         <Class IRI="#Vitamin_B6"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#separation"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#packaging_capacity"/>
     </Declaration>
     <Declaration>
@@ -2215,9 +2212,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#sheep_sugar"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#dairy_based_infant_formula_processing_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#pigeon_milk"/>
@@ -3063,6 +3057,9 @@
         <Class IRI="#rabbit_fat"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#wet_blending"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#magnesium"/>
     </Declaration>
     <Declaration>
@@ -3076,6 +3073,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#class_III"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dairy_products_promotion_program"/>
     </Declaration>
     <Declaration>
         <Class IRI="#UHT_milk"/>
@@ -3174,9 +3174,6 @@
         <Class IRI="#Vitamin_C_activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ferments_inoculation"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#bipolar"/>
     </Declaration>
     <Declaration>
@@ -3190,6 +3187,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#mammalian_milk_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cream_separation_purpose"/>
     </Declaration>
     <Declaration>
         <Class IRI="#milking_time"/>
@@ -3414,10 +3414,10 @@
         <Class IRI="#product_shelf_life"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#separation_purpose"/>
+        <Class IRI="#casein_precipitation_application"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#casein_precipitation_application"/>
+        <Class IRI="#mechanical_processing_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#lactogenesis_period"/>
@@ -3609,6 +3609,9 @@
         <Class IRI="#no_more_than_48_hours"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#cream_separation_types"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#dog_milk"/>
     </Declaration>
     <Declaration>
@@ -3723,6 +3726,9 @@
         <Class IRI="#sens_of_taste_development"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#sherbet"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#caprine_milk"/>
     </Declaration>
     <Declaration>
@@ -3739,6 +3745,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#opossum_fat_6.1_percent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#stiring_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Holstein-Friesian_cow_sugar_4.9_percent"/>
@@ -3960,6 +3969,9 @@
         <Class IRI="#89ºC_(191ºF)_and_1.0_second"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#programs"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#sequestration_of_iron,_lowering_growth_of_some_bacteria"/>
     </Declaration>
     <Declaration>
@@ -4015,6 +4027,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#fructose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#blending_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#ating_influenced_by_craving"/>
@@ -4159,6 +4174,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#buffalo_dry_matter_21.5_percent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bulk_milk_somatic_cell_count"/>
     </Declaration>
     <Declaration>
         <Class IRI="#elephant_sugar_3.4_percent"/>
@@ -4762,6 +4780,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#buffalo_protein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#separation_process"/>
     </Declaration>
     <Declaration>
         <Class IRI="#coconut_milk"/>
@@ -5763,7 +5784,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Cooperatives_Working_Together_CWT"/>
-        <Class IRI="#dairy_cooperative"/>
+        <Class IRI="#programs"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Cytomegalovirus"/>
@@ -6163,7 +6184,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#REAL_Seal"/>
-        <Class IRI="#milk_processing_organization"/>
+        <Class IRI="#programs"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Rubella"/>
@@ -6316,6 +6337,10 @@
     <SubClassOf>
         <Class IRI="#acid_powdered_whey"/>
         <Class IRI="#powdered_whey"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#acidification"/>
+        <Class IRI="#chemical_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#acidified_milk"/>
@@ -6738,6 +6763,10 @@
         <Class IRI="#iron_function"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#biological_processing_process"/>
+        <Class IRI="#milk_processing_process"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#bipolar"/>
         <Class IRI="#phopholipid_property"/>
     </SubClassOf>
@@ -6816,6 +6845,10 @@
     <SubClassOf>
         <Class IRI="#blender"/>
         <Class IRI="#milk_processing_equipment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#blending_process"/>
+        <Class IRI="#mechanical_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#blindness"/>
@@ -6946,7 +6979,7 @@
         <Class IRI="#buffalo_sugar"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#bulk_milk_cell_count"/>
+        <Class IRI="#bulk_milk_somatic_cell_count"/>
         <Class IRI="#step_5_lab_testing_process"/>
     </SubClassOf>
     <SubClassOf>
@@ -7119,7 +7152,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#casein_precipitation"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#enzymatical_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#casein_precipitation_application"/>
@@ -7219,7 +7252,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#centrifugal_separation"/>
-        <Class IRI="#separation_types"/>
+        <Class IRI="#cream_separation_types"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cheese_curd"/>
@@ -7246,12 +7279,12 @@
         <Class IRI="#milk_processing_equipment"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#cheese_processing_process"/>
-        <Class IRI="#milk_processing_process"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#cheese_product"/>
         <Class IRI="#dairy_food_product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#chemical_process"/>
+        <Class IRI="#milk_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#chewing_behavior"/>
@@ -7331,11 +7364,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#coagulation"/>
-        <Class IRI="#milk_processing_attribute"/>
+        <Class IRI="#chemical_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#coagulation"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#milk_processing_attribute"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cobalamin"/>
@@ -7530,6 +7563,18 @@
         <Class IRI="#dairy_food_product"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#cream_separation"/>
+        <Class IRI="#separation_process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cream_separation_purpose"/>
+        <Class IRI="#cream_separation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cream_separation_types"/>
+        <Class IRI="#cream_separation"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#cream_separator"/>
         <Class IRI="#separator"/>
     </SubClassOf>
@@ -7572,10 +7617,6 @@
     <SubClassOf>
         <Class IRI="#dairy_based_infant_formula"/>
         <Class IRI="#dairy_based_milk_substitute_product"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#dairy_based_infant_formula_processing_process"/>
-        <Class IRI="#milk_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dairy_based_milk_substitute_product"/>
@@ -7652,6 +7693,10 @@
     <SubClassOf>
         <Class IRI="#dairy_product_donation_program"/>
         <Class IRI="#farm_bill"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dairy_products_promotion_program"/>
+        <Class IRI="#dairy_trade_organization"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dairy_substitute_food_product"/>
@@ -7987,7 +8032,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#drainage"/>
-        <Class IRI="#cheese_processing_process"/>
+        <Class IRI="#drying_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#drinking_behavior"/>
@@ -8027,7 +8072,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dry_blending"/>
-        <Class IRI="#dairy_based_infant_formula_processing_process"/>
+        <Class IRI="#blending_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dry_period"/>
@@ -8035,7 +8080,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#drying_process"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#mass_transfer_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#duct_dilatation"/>
@@ -8514,6 +8559,10 @@
         <Class IRI="#milk_coagulating_agent"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#enzymatical_process"/>
+        <Class IRI="#biological_processing_process"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#enzyme"/>
         <Class IRI="#whey_type"/>
     </SubClassOf>
@@ -8555,7 +8604,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#evaporation"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#drying_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#even-toed_ungulate_mammal"/>
@@ -8671,7 +8720,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#fermentation"/>
+        <Class IRI="#biological_processing_process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fermentation"/>
         <Class IRI="#milk_processing_attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fermentation"/>
+        <Class IRI="#stage_4_further_processing"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#fermentation_tank"/>
@@ -8696,18 +8753,6 @@
     <SubClassOf>
         <Class IRI="#fermented_milk_product"/>
         <Class IRI="#fermented_dairy_product"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#fermenting"/>
-        <Class IRI="#milk_processing_process"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#fermenting"/>
-        <Class IRI="#stage_4_further_processing"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#ferments_inoculation"/>
-        <Class IRI="#fermenting"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#filler"/>
@@ -9083,7 +9128,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gravitational_separation"/>
-        <Class IRI="#separation_types"/>
+        <Class IRI="#cream_separation_types"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#grazed_herbage"/>
@@ -9315,11 +9360,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#homogenization"/>
-        <Class IRI="#milk_processing_attribute"/>
+        <Class IRI="#mechanical_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#homogenization"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#milk_processing_attribute"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#homogenization_purpose"/>
@@ -9368,10 +9413,6 @@
     <SubClassOf>
         <Class IRI="#ice_cream_maker"/>
         <Class IRI="#milk_processing_equipment"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#ice_cream_processing_process"/>
-        <Class IRI="#milk_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#image_oriented_eating_behavior"/>
@@ -10234,6 +10275,10 @@
         <Class IRI="#non_placental_mammal_clade"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#mass_transfer_processing_process"/>
+        <Class IRI="#milk_processing_process"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#mastitis"/>
         <Class IRI="#health_condition_type"/>
     </SubClassOf>
@@ -10322,8 +10367,12 @@
         <Class IRI="#consumption_process"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#membrane_filtration"/>
+        <Class IRI="#mechanical_processing_process"/>
         <Class IRI="#milk_processing_process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#membrane_filtration"/>
+        <Class IRI="#separation_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#membrane_transport_pathway"/>
@@ -11403,7 +11452,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#overrrun"/>
-        <Class IRI="#ice_cream_processing_process"/>
+        <Class IRI="#mechanical_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ovine_milk"/>
@@ -11938,6 +11987,10 @@
         <Class IRI="#progesterone"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#programs"/>
+        <Class IRI="#dairy_cooperative"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#prolactin"/>
         <Class IRI="#endocrine_hormone"/>
     </SubClassOf>
@@ -11974,7 +12027,7 @@
         <Class IRI="#bacterial_agent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#proprietary_dairy_companies"/>
+        <Class IRI="#proprietary_dairy_company"/>
         <Class IRI="#dairy_industry_firm"/>
     </SubClassOf>
     <SubClassOf>
@@ -12339,7 +12392,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ripening"/>
-        <Class IRI="#cheese_processing_process"/>
+        <Class IRI="#enzymatical_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rodent"/>
@@ -12463,23 +12516,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#separate_cream_from_milk_by_spinning"/>
-        <Class IRI="#separation_purpose"/>
+        <Class IRI="#cream_separation_purpose"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#separation"/>
-        <Class IRI="#milk_processing_process"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#separation_purpose"/>
-        <Class IRI="#separation"/>
+        <Class IRI="#separation_process"/>
+        <Class IRI="#mechanical_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#separation_stage"/>
-        <Class IRI="#separation_purpose"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#separation_types"/>
-        <Class IRI="#separation"/>
+        <Class IRI="#cream_separation_purpose"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#separator"/>
@@ -12586,12 +12631,16 @@
         <Class IRI="#sheep_sugar"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#sherbet"/>
+        <Class IRI="#frozen_dairy_product"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#shorty_after_delivery"/>
         <Class IRI="#three_temporally_changes_in_milk_composition_during_secretory_activation"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#shredding"/>
-        <Class IRI="#cheese_processing_process"/>
+        <Class IRI="#mechanical_processing_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sialic_acid"/>
@@ -12892,6 +12941,10 @@
     <SubClassOf>
         <Class IRI="#sterilized_milk"/>
         <Class IRI="#fluid_milk_product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#stiring_process"/>
+        <Class IRI="#blending_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#storage_tank"/>
@@ -13207,7 +13260,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#vitamin_fortification"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#stiring_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#washed_rind_cheese"/>
@@ -13222,8 +13275,8 @@
         <Class IRI="#celebratory_meal_behavior"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#wet_blending_spray_drying"/>
-        <Class IRI="#dairy_based_infant_formula_processing_process"/>
+        <Class IRI="#wet_blending"/>
+        <Class IRI="#blending_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#whale_dry_matter"/>
@@ -13547,7 +13600,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#National_Dairy_FARM_(Farmers_Assuring_Responsible_Management)_Program"/>
-        <Class IRI="#milk_processing_organization"/>
+        <Class IRI="#programs"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Supraprimate_mammal_:Euarchontoglire"/>
@@ -13603,7 +13656,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#delipidation,_skimming"/>
-        <Class IRI="#milk_processing_process"/>
+        <Class IRI="#separation_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#destabilisation_of_casein_micelle,_casein_precipitation"/>
@@ -14063,7 +14116,7 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#bacteria_count"/>
-        <Class IRI="#bulk_milk_cell_count"/>
+        <Class IRI="#bulk_milk_somatic_cell_count"/>
         <Class IRI="#milkfat_test"/>
         <Class IRI="#protein_test"/>
         <Class IRI="#temperature_test"/>
